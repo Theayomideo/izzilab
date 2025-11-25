@@ -1,0 +1,25 @@
+---
+pagetitle: "Opportunities | Izzi Lab"
+toc: false
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Opportunities</li>
+  </ol>
+</nav>
+```
+
+## Join Our Team
+
+The Izzi Lab is always looking for talented and motivated individuals to join our interdisciplinary research group. We welcome applications from candidates with backgrounds in bioinformatics, computational biology, biochemistry, molecular medicine, mathematics, computer science, and related fields.
+
+We offer opportunities at all levels, from PhD positions to postdoctoral positions. We also accept BSc and MSc students for internship projects. 
+
+If you're interested in joining our team, please reach out to Val at [Valerio.Izzi[AT]oulu.fi](mailto:Valerio.Izzi@oulu.fi) with your CV and a brief description of your research interests.
+
+```{=html}
+<a href="mailto:Valerio.Izzi@oulu.fi" class="btn btn-primary rounded-pill">Contact Val</a>
+```

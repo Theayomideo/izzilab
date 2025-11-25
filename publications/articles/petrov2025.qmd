@@ -1,0 +1,27 @@
+---
+title: "ProToDeviseR: an automated protein topology scheme generator"
+author: "Petrov P, Izzi V"
+year: 2025
+publication: "BMC Bioinformatics"
+doi: "10.1186/s12859-025-06088-2"
+categories: [bioinformatics, protein structure, computational biology]
+---
+
+## Abstract
+
+ProToDeviseR is an automated tool for generating protein topology schemes from structural data. This software addresses the need for rapid and accurate visualization of protein domain organization and topology.
+
+## Key Findings
+
+- Automated generation of protein topology diagrams from PDB structures
+- Supports multiple input formats and customizable output options
+- Accurately identifies and visualizes secondary structure elements
+- Significantly reduces time required for topology scheme generation
+
+## Software Availability
+
+ProToDeviseR is open-source software available under the MIT license. The source code and documentation are available at the corresponding GitHub repository.
+
+## Citation
+
+Petrov P, Izzi V. (2025). ProToDeviseR: an automated protein topology scheme generator. *BMC Bioinformatics*, 26(1), 71.

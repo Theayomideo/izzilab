@@ -1,0 +1,27 @@
+---
+title: "Collagen XVIII regulates extracellular matrix integrity in the developing nephrons and impacts nephron progenitor cell behavior"
+author: "Rinta-Jaskari MM, Naillat F, Ruotsalainen HJ, Ronkainen VP, Heljasvaara R, Akram SU, Izzi V, Miinalainen I, et al."
+year: 2024
+publication: "Matrix Biology"
+doi: "10.1016/j.matbio.2024.06.001"
+categories: [ECM, development, kidney, collagen]
+---
+
+## Abstract
+
+This study demonstrates the critical role of collagen XVIII in maintaining ECM integrity during nephron development. We show how collagen XVIII deficiency affects nephron progenitor cell behavior and kidney morphogenesis.
+
+## Key Findings
+
+- Collagen XVIII is essential for proper nephron ECM organization
+- Loss of collagen XVIII disrupts nephron progenitor cell niche
+- Identified molecular mechanisms linking collagen XVIII to progenitor cell maintenance
+- Revealed impact on adult kidney function and disease susceptibility
+
+## Developmental Significance
+
+Our findings highlight the importance of specific ECM components in organ development and provide insights into congenital kidney disease mechanisms.
+
+## Citation
+
+Rinta-Jaskari MM, et al. (2024). Collagen XVIII regulates extracellular matrix integrity in the developing nephrons and impacts nephron progenitor cell behavior. *Matrix Biology*, 131, 30-45.

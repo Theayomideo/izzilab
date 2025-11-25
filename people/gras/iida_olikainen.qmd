@@ -1,0 +1,49 @@
+---
+title: "Iida Olikainen"
+sortby: "Olikainen, Iida"
+subtitle: "Doctoral Researcher"
+image: ../../img/iida_ollikainen.jpeg
+toc: false
+started: "TBD"
+ended: "Current"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: mailto:iida.olikainen@oulu.fi
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Graduate Students</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Iida Olikainen is currently pursuing both an MD at the University of Oulu and a PhD in the Izzi laboratory.
+
+
+## Research Interests
+- Bioinformatics
+- Computational Biology
+
+## Education
+- [University of Oulu]{.fw-bold} | Oulu, Finland<br />
+  MD Student | TBD–Current
+
+- [University of Oulu]{.fw-bold} | Oulu, Finland<br />
+  PhD Student | TBD–Current
+
+<!-- Update with actual education details, degrees, and dates -->

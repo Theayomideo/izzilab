@@ -1,0 +1,27 @@
+---
+title: "Targeting collagen XVIII improves the efficiency of ErbB inhibitors in breast cancer models"
+author: "Devarajan R, Izzi V, Peltoketo H, Rask G, Kauppila S, Väisänen MR, Ruotsalainen H, Martínez-Nieto G, et al."
+year: 2023
+publication: "The Journal of Clinical Investigation"
+doi: "10.1172/JCI159181"
+categories: [cancer, breast cancer, collagen XVIII, therapy]
+---
+
+## Abstract
+
+This study demonstrates that targeting collagen XVIII enhances the therapeutic efficacy of ErbB inhibitors in breast cancer. We reveal a novel mechanism of drug resistance mediated by collagen XVIII-dependent signaling.
+
+## Key Findings
+
+- Collagen XVIII expression correlates with ErbB inhibitor resistance
+- Targeting collagen XVIII sensitizes tumors to ErbB inhibition
+- Identified molecular mechanisms linking collagen XVIII to drug resistance
+- Validated combination therapy approach in preclinical models
+
+## Clinical Implications
+
+Our findings support the development of combination therapies targeting both collagen XVIII and ErbB signaling for improved breast cancer treatment outcomes.
+
+## Citation
+
+Devarajan R, et al. (2023). Targeting collagen XVIII improves the efficiency of ErbB inhibitors in breast cancer models. *The Journal of Clinical Investigation*, 133(18), e159181.

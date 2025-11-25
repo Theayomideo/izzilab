@@ -1,0 +1,27 @@
+---
+title: "Machine learning identifies robust matrisome markers and regulatory mechanisms in cancer"
+author: "Kääriäinen A, Pesola V, Dittmann A, Kontio J, Koivunen J, Pihlajaniemi T, Izzi V"
+year: 2020
+publication: "International Journal of Molecular Sciences"
+doi: "10.3390/ijms21228837"
+categories: [machine learning, ECM, cancer, bioinformatics]
+---
+
+## Abstract
+
+Using machine learning approaches, we identify robust matrisome markers and their regulatory mechanisms across cancer types. This computational framework reveals previously unrecognized ECM patterns associated with clinical outcomes.
+
+## Key Findings
+
+- Developed machine learning pipeline for matrisome analysis
+- Identified pan-cancer and cancer-specific ECM markers
+- Revealed regulatory networks controlling matrisome expression
+- Validated markers in independent patient cohorts
+
+## Computational Innovation
+
+Our machine learning framework provides a powerful tool for discovering clinically relevant matrisome patterns and understanding ECM regulation in cancer.
+
+## Citation
+
+Kääriäinen A, et al. (2020). Machine learning identifies robust matrisome markers and regulatory mechanisms in cancer. *International Journal of Molecular Sciences*, 21(22), 8837.

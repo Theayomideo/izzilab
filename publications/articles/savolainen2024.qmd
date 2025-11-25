@@ -1,0 +1,27 @@
+---
+title: "3DMOUSEneST: a volumetric label-free imaging method evaluating embryo–uterine interaction and decidualization efficacy"
+author: "Savolainen A, Kapiainen E, Ronkainen VP, Izzi V, Matzuk MM, Monsivais D, Prunskaite-Hyyryläinen R"
+year: 2024
+publication: "Development"
+doi: "10.1242/dev.202938"
+categories: [imaging, development, ECM]
+---
+
+## Abstract
+
+3DMOUSEneST represents a novel volumetric imaging approach for studying embryo-uterine interactions without the need for labeling. This method provides unprecedented insights into decidualization processes and implantation dynamics.
+
+## Key Findings
+
+- Developed label-free 3D imaging method for embryo-uterine interface
+- Enables real-time monitoring of decidualization processes
+- Reveals spatiotemporal dynamics of ECM remodeling during implantation
+- Provides quantitative metrics for implantation efficacy assessment
+
+## Technical Innovation
+
+This imaging platform combines optical clearing techniques with advanced microscopy to achieve deep tissue imaging while preserving native tissue architecture and ECM organization.
+
+## Citation
+
+Savolainen A, et al. (2024). 3DMOUSEneST: a volumetric label-free imaging method evaluating embryo–uterine interaction and decidualization efficacy. *Development*, 151(16), dev202938.

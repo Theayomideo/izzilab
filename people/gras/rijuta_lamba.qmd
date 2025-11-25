@@ -1,0 +1,63 @@
+---
+title: "Rijuta Lamba"
+sortby: "Lamba, Rijuta"
+subtitle: "Doctoral Researcher"
+image: ../../img/rijuta_lamba.jpg
+toc: false
+started: "April 2021"
+ended: "Current"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: mailto:rijuta.lamba@oulu.fi
+    - icon: fab fa-linkedin
+      text: linkedin
+      href: https://www.oulu.fi/en/researchers/rijuta-lamba
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=1XpMaf8AAAAJ&hl=en
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Graduate Students</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+I am a Doctoral Student in Bioinformatics in the Izzi Group since April 2021.
+
+I completed my Bachelors’ degree in Biological Sciences from the University of Florence, Italy. During my stay in Florence, I interned at the Institute of Ecosystem Studies of the National Council of Research in Florence for my thesis and worked on understanding the diversity and phylogeny of Nostoc cf communales(cyanobacteria) from Greenland. My internship gave me the first insight into the world of computational biology, it ensnared my curiosity and propelled me to go on and get my Masters’ degree in Bioinformatics from the University of Bologna, Italy. I carried out at my Masters’ thesis work as an Erasmus scholar at the University of Ghent, Belgium. During my Masters', I found myself enchanted by the world of Systems and In-Silico Biology and the entire framework of Machine Learning. I fell in love with this mathematical framework to understand biological systems, that allows us to decode seemingly intractable biological mysteries and I am particularly interested in using this framework for modelling the biology of disease, more specifically, cancer.
+
+Currently, I am exploring the matrisome-cancer interface to understand the role that matrisome mutations may play in defining the landscape of the Tumor Microenvironment using a wide variety of computational methods.
+
+
+## Research Interests
+- Bioinformatics
+- Cancer Research
+- Systems Biology
+- Machine Learning
+- Artificial Intelligence
+
+## Education
+- [University of Oulu]{.fw-bold} | Oulu, Finland<br />
+  PhD Student [Biochemistry and Molecular Medicine], 2021–Current
+
+- [Universita di Bologna]{.fw-bold} | Bologna, Italy<br />
+  MSc in [ Bioinformatics] | 2017–2020
+  
+- [Universita degli Studi di Firenze]{.fw-bold} | Florence, Italy<br />
+  BSc in [Biological Sciences] | 2017
+
+

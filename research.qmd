@@ -1,0 +1,54 @@
+---
+pagetitle: "Research | Izzi Lab"
+toc: false
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Research</li>
+  </ol>
+</nav>
+```
+
+## Decoding the Tumor-ECM Dialogue
+
+At the Izzi Lab, our central mission is to understand how tumors communicate with their surrounding environment, the extracellular matrix (ECM). This dynamic dialogue is critical for cancer growth, metastasis, and treatment resistance. We build and apply cutting-edge computational models to listen in on this conversation, aiming to identify novel therapeutic strategies that can disrupt it.
+
+Our research is built on three interconnected pillars:
+
+### 1. Mapping the Tumor-ECM Ecosystem
+
+Before we can intervene, we must first create a detailed map of the territory. We use multi-omics data (genomics, transcriptomics, proteomics) to build comprehensive models of the tumor microenvironment. Our goal is to uncover the fundamental rules governing how the matrisome—the full collection of ECM proteins—is constructed and remodeled during cancer progression.
+
+- **Matrisome Profiling:** Characterizing the unique ECM signatures of different cancer types and subtypes.
+- **Cell-Matrix Communication:** Identifying the signaling pathways that cells use to sense and respond to their ECM.
+- **Spatial & Single-Cell Analysis:** Understanding how tumor-ECM interactions vary in space and across individual cells to drive heterogeneity.
+
+### 2. Building Novel Computational & AI Tools
+
+Standard bioinformatics tools are often insufficient to capture the complexity of the ECM. A core part of our mission is to develop the next generation of software for the research community. We integrate network biology, statistical modeling, and machine learning to create robust, open-source tools that turn raw data into biological insight.
+
+- **Predictive Modeling:** Using AI and deep learning to predict patient outcomes or treatment responses based on ECM signatures.
+- **Algorithm Development:** Designing novel graph-based algorithms inspired by complex systems to find key vulnerabilities in the tumor-ECM network.
+- **Flagship Software:** Developing and maintaining user-friendly R packages like MatrisomeAnalyzeR and MatriCom for widespread use.
+
+### 3. Driving Translational Impact & Open Science
+
+Our ultimate goal is to improve patient outcomes. We bridge the gap between computational discovery and clinical application by working closely with oncologists and experimental biologists. By identifying network-based biomarkers and potential drug targets, we aim to contribute directly to the future of cancer therapy.
+
+- **Therapeutic Target Identification:** Pinpointing specific ECM components or regulators that are critical for tumor survival.
+- **Biomarker Discovery:** Finding matrisome signatures that can predict metastasis or drug resistance.
+- **Open & Reproducible Science:** We are committed to open science, ensuring our code, data, and pipelines are publicly available to accelerate research for everyone.
+
+<!-- --- -->
+
+<!-- ### **Next Step: Adding Visuals** -->
+
+<!-- To make this page even better, add compelling images. Place your images in the `/img/` folder and then add the Markdown link `![](img/your-image-name.png)` in the appropriate places in the text above. -->
+
+<!-- - **High-Level Overview:** Right after the introductory paragraph, consider adding a central diagram that visually connects the three pillars. -->
+<!-- - **For Pillar 1 (Ecosystem Mapping):** After the text, a great addition would be a figure from a paper showing a network graph, a spatial transcriptomics plot, or a single-cell UMAP. -->
+<!-- - **For Pillar 2 (Tool Building):** A perfect visual here would be a screenshot showing the output of one of your tools (like a "matriring"), or even just the software's logo. -->
+<!-- - **For Pillar 3 (Translational Impact):** A diagram showing a clinical workflow or a "bench-to-bedside" conceptual graphic would fit well here. -->

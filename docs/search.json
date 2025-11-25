@@ -1,0 +1,1402 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Izzi Lab",
+    "section": "",
+    "text": "Home\n    Resources"
+  },
+  {
+    "objectID": "resources.html#software-tools",
+    "href": "resources.html#software-tools",
+    "title": "Izzi Lab",
+    "section": "Software Tools",
+    "text": "Software Tools\n\nMatriCom (2025)\nSingle-cell RNA-seq data mining tool for cell-ECM interactions\nWeb: https://matrinet.shinyapps.io/matricom\nGitHub: https://github.com/Izzilab/MatriCom\nPublication: Lamba et al. (2025) J Cell Sci\n\n\nProToDeviseR (2025)\nAutomatic protein topology scheme generator\nApplication: Protein topology and domain visualization Access: https://github.com/Izzilab/protodeviser GitHub: https://matrinet.shinyapps.io/ProToDeviseR/\nPublication: Lamba et al. (2025) J Cell Sci\n\n\nMatrisomeAnalyzeR (2023)\nSuite for annotating and quantifying ECM molecules across organisms\nAccess: https://matrinet.shinyapps.io/MatrisomeAnalyzer/ GitHub: https://github.com/Izzilab/MatrisomeAnalyzeR Publication: Petrov et al. (2023) J Cell Sci\n\n\nMatriNet Database (2022)\nDatabase of ECM network dynamics in cancer\nFeatures: 25,000+ ECM interactions, 210 matrisome markers\nPublication: Izzi et al. (2022) Matrix Biology\nAccess: Contact lab for access"
+  },
+  {
+    "objectID": "resources.html#how-to-access",
+    "href": "resources.html#how-to-access",
+    "title": "Izzi Lab",
+    "section": "How to Access",
+    "text": "How to Access\nFor tool access and collaboration inquiries, contact: Valerio.Izzi@oulu.fi"
+  },
+  {
+    "objectID": "resources.html#citation",
+    "href": "resources.html#citation",
+    "title": "Izzi Lab",
+    "section": "Citation",
+    "text": "Citation\nWhen using our tools, please cite the relevant publication listed above."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Izzi Lab",
+    "section": "",
+    "text": "Home\n    Publications\n  \n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Publication\n      \n      \n        Year\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n    MatriCom, a single-cell RNA-sequencing data mining tool to infer cell–extracellular matrix interactions\n    Lamba R, Paguntalan AM, Petrov PB, Naba A, Izzi V\n    Journal of Cell Science\n    (2025)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    ProToDeviseR: an automated protein topology scheme generator\n    Petrov P, Izzi V\n    BMC Bioinformatics\n    (2025)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    3DMOUSEneST: a volumetric label-free imaging method evaluating embryo–uterine interaction and decidualization efficacy\n    Savolainen A, Kapiainen E, Ronkainen VP, Izzi V, Matzuk MM, Monsivais D, Prunskaite-Hyyryläinen R\n    Development\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Collagen XVIII regulates extracellular matrix integrity in the developing nephrons and impacts nephron progenitor cell behavior\n    Rinta-Jaskari MM, Naillat F, Ruotsalainen HJ, Ronkainen VP, Heljasvaara R, Akram SU, Izzi V, Miinalainen I, et al.\n    Matrix Biology\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Collagen prolyl 4-hydroxylase isoenzymes I and II have sequence specificity towards different X-Pro-Gly triplets\n    Salo AM, Rappu P, Koski MK, Karjalainen E, Izzi V, Drushinin K, Miinalainen I, Käpylä J, Heino J, Myllyharju J\n    Matrix Biology\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Novel genetic variants associated with primary myocardial fibrosis in sudden cardiac death victims\n    Skarp S, Doedens A, Holmström L, Izzi V, Saarimäki S, Sliz E, Kettunen J, Pakanen L, Kerkelä R, Pylkäs K, et al.\n    Journal of Cardiovascular Translational Research\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    TGF-β induces matrisome pathological alterations and EMT in patient-derived prostate cancer tumoroids\n    Morazzo S, Niro F, Cassani M, Ďuríková H, Caravella A, Fiore P, Azzato G, De Marco G, Lauria A, Izzi V, et al.\n    Matrix Biology\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Fibroblast-derived matrix models desmoplastic properties and forms a prognostic signature in cancer progression\n    Nielsen SR, Grønseth DS, Kuś F, Schoof EM, Arnes L, Koch M, Clausen-Schaumann H, Izzi V, et al.\n    Frontiers in Immunology\n    (2023)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    MatrisomeAnalyzeR – a suite of tools to annotate and quantify ECM molecules in big datasets across organisms\n    Petrov PB, Considine JM, Izzi V, Naba A\n    Journal of Cell Science\n    (2023)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Targeting collagen XVIII improves the efficiency of ErbB inhibitors in breast cancer models\n    Devarajan R, Izzi V, Peltoketo H, Rask G, Kauppila S, Väisänen MR, Ruotsalainen H, Martínez-Nieto G, et al.\n    The Journal of Clinical Investigation\n    (2023)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Advances on the roles of tenascin-C in cancer\n    Yilmaz A, Loustau T, Salomé N, Poilil Surendran S, Li C, Tucker RP, Izzi V, Lamba R, Koch M, Orend G\n    Journal of Cell Science\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Analysis of extracellular matrix network dynamics in cancer using the MatriNet database\n    Izzi V, Kontio J, Soñora VR, Pesola V, Lamba R, Dittmann A, Navarro AD, Koivunen J, Pihlajaniemi T\n    Matrix Biology\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Analysis of extracellular matrix network dynamics in cancer using the MatriNet database\n    Kontio J, Sonora VR, Pesola V, Lamba R, Dittmann A, Navarro AD, Koivunen J, Pihlajaniemi T, Izzi V\n    Matrix Biology\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Reduced Bone Mass in Collagen Prolyl 4-Hydroxylase P4ha1+/−; P4ha2−/− Compound Mutant Mice\n    Tolonen JP, Salo AM, Finnilä M, Aro E, Karjalainen E, Ronkainen VP, Drushinin K, Merceron C, Izzi V, et al.\n    JBMR Plus\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    The CMS19 disease model specifies a pivotal role for collagen XIII in bone homeostasis\n    Kemppainen AV, Finnilä MA, Heikkinen A, Härönen H, Izzi V, Kauppinen S, Saarakkala S, Pihlajaniemi T, et al.\n    Scientific Reports\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    The alternative matrisome: alternative splicing of ECM proteins in development, homeostasis and tumor progression\n    Rekad Z, Izzi V, Lamba R, Ciais D, Van Obberghen-Schilling E\n    Matrix Biology\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Upregulated integrin α11 in the stroma of cutaneous squamous cell carcinoma promotes skin carcinogenesis\n    Martinez-Nieto GA, Teppo HR, Petrelius N, Izzi V, Devarajan R, Petäistö T, Liu H, Kim KS, Karppinen SM, et al.\n    Frontiers in Oncology\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Genetic Ablation of Transmembrane Prolyl 4-Hydroxylase Reduces Atherosclerotic Plaques in Mice\n    Määttä J, Serpi R, Hörkkö S, Izzi V, Myllyharju J, Dimova EY, Koivunen P\n    Arteriosclerosis, Thrombosis, and Vascular Biology\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Prevalence estimates of predicted pathogenic COL4A3–COL4A5 variants in a population sequencing database and their implications for Alport syndrome\n    Gibson J, Fieldhouse R, Chan MMY, Sadeghi-Alavijeh O, Burnett L, Izzi V, Persikov AV, Gale DP, Storey H, et al.\n    Journal of the American Society of Nephrology\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    The burden of post-translational modification (PTM)—disrupting mutations in the tumor matrisome\n    Holstein E, Dittmann A, Kääriäinen A, Pesola V, Koivunen J, Pihlajaniemi T, Naba A, Izzi V\n    Cancers\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Tumor antigens heterogeneity and immune response-targeting neoantigens in breast cancer\n    Benvenuto M, Focaccetti C, Izzi V, Masuelli L, Modesti A, Bei R\n    Seminars in Cancer Biology\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Exploring the roles of MACIT and multiplexin collagens in stem cells and cancer\n    Izzi V, Heljasvaara R, Heikkinen A, Karppinen SM, Koivunen J, Pihlajaniemi T\n    Seminars in Cancer Biology\n    (2020)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Lack of collagen XVIII leads to lipodystrophy and perturbs hepatic glucose and lipid homeostasis\n    Petäistö T, Vicente D, Mäkelä KA, Finnilä MA, Miinalainen I, Koivunen J, Izzi V, Aikio M, Karppinen SM, et al.\n    The Journal of Physiology\n    (2020)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Machine learning identifies robust matrisome markers and regulatory mechanisms in cancer\n    Kääriäinen A, Pesola V, Dittmann A, Kontio J, Koivunen J, Pihlajaniemi T, Izzi V\n    International Journal of Molecular Sciences\n    (2020)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Pan-cancer analysis of the genomic alterations and mutations of the matrisome\n    Izzi V, Davis MN, Naba A\n    Cancers\n    (2020)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    An extracellular matrix signature in leukemia precursor cells and acute myeloid leukemia\n    Izzi V, Lakkala J, Devarajan R, Savolainen ER, Koistinen P, Heljasvaara R, Pihlajaniemi T\n    Haematologica\n    (2017)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/articles/tolonen2022.html",
+    "href": "publications/articles/tolonen2022.html",
+    "title": "Reduced Bone Mass in Collagen Prolyl 4-Hydroxylase P4ha1+/−; P4ha2−/− Compound Mutant Mice",
+    "section": "",
+    "text": "This study demonstrates that compound mutations in collagen prolyl 4-hydroxylase subunits P4ha1 and P4ha2 lead to reduced bone mass in mice. We reveal the critical role of collagen hydroxylation in maintaining bone homeostasis."
+  },
+  {
+    "objectID": "publications/articles/tolonen2022.html#abstract",
+    "href": "publications/articles/tolonen2022.html#abstract",
+    "title": "Reduced Bone Mass in Collagen Prolyl 4-Hydroxylase P4ha1+/−; P4ha2−/− Compound Mutant Mice",
+    "section": "",
+    "text": "This study demonstrates that compound mutations in collagen prolyl 4-hydroxylase subunits P4ha1 and P4ha2 lead to reduced bone mass in mice. We reveal the critical role of collagen hydroxylation in maintaining bone homeostasis."
+  },
+  {
+    "objectID": "publications/articles/tolonen2022.html#key-findings",
+    "href": "publications/articles/tolonen2022.html#key-findings",
+    "title": "Reduced Bone Mass in Collagen Prolyl 4-Hydroxylase P4ha1+/−; P4ha2−/− Compound Mutant Mice",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nCompound P4ha1+/−; P4ha2−/− mice exhibit significant bone loss\nReduced collagen hydroxylation affects bone matrix quality\nAltered osteoblast and osteoclast activity in mutant mice\nIdentified compensatory mechanisms in collagen synthesis"
+  },
+  {
+    "objectID": "publications/articles/tolonen2022.html#clinical-relevance",
+    "href": "publications/articles/tolonen2022.html#clinical-relevance",
+    "title": "Reduced Bone Mass in Collagen Prolyl 4-Hydroxylase P4ha1+/−; P4ha2−/− Compound Mutant Mice",
+    "section": "Clinical Relevance",
+    "text": "Clinical Relevance\nThese findings provide insights into the pathogenesis of bone disorders associated with collagen post-translational modification defects."
+  },
+  {
+    "objectID": "publications/articles/tolonen2022.html#citation",
+    "href": "publications/articles/tolonen2022.html#citation",
+    "title": "Reduced Bone Mass in Collagen Prolyl 4-Hydroxylase P4ha1+/−; P4ha2−/− Compound Mutant Mice",
+    "section": "Citation",
+    "text": "Citation\nTolonen JP, et al. (2022). Reduced Bone Mass in Collagen Prolyl 4-Hydroxylase P4ha1+/−; P4ha2−/− Compound Mutant Mice. JBMR Plus, 6(6), e10630."
+  },
+  {
+    "objectID": "publications/articles/savolainen2024.html",
+    "href": "publications/articles/savolainen2024.html",
+    "title": "3DMOUSEneST: a volumetric label-free imaging method evaluating embryo–uterine interaction and decidualization efficacy",
+    "section": "",
+    "text": "3DMOUSEneST represents a novel volumetric imaging approach for studying embryo-uterine interactions without the need for labeling. This method provides unprecedented insights into decidualization processes and implantation dynamics."
+  },
+  {
+    "objectID": "publications/articles/savolainen2024.html#abstract",
+    "href": "publications/articles/savolainen2024.html#abstract",
+    "title": "3DMOUSEneST: a volumetric label-free imaging method evaluating embryo–uterine interaction and decidualization efficacy",
+    "section": "",
+    "text": "3DMOUSEneST represents a novel volumetric imaging approach for studying embryo-uterine interactions without the need for labeling. This method provides unprecedented insights into decidualization processes and implantation dynamics."
+  },
+  {
+    "objectID": "publications/articles/savolainen2024.html#key-findings",
+    "href": "publications/articles/savolainen2024.html#key-findings",
+    "title": "3DMOUSEneST: a volumetric label-free imaging method evaluating embryo–uterine interaction and decidualization efficacy",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nDeveloped label-free 3D imaging method for embryo-uterine interface\nEnables real-time monitoring of decidualization processes\nReveals spatiotemporal dynamics of ECM remodeling during implantation\nProvides quantitative metrics for implantation efficacy assessment"
+  },
+  {
+    "objectID": "publications/articles/savolainen2024.html#technical-innovation",
+    "href": "publications/articles/savolainen2024.html#technical-innovation",
+    "title": "3DMOUSEneST: a volumetric label-free imaging method evaluating embryo–uterine interaction and decidualization efficacy",
+    "section": "Technical Innovation",
+    "text": "Technical Innovation\nThis imaging platform combines optical clearing techniques with advanced microscopy to achieve deep tissue imaging while preserving native tissue architecture and ECM organization."
+  },
+  {
+    "objectID": "publications/articles/savolainen2024.html#citation",
+    "href": "publications/articles/savolainen2024.html#citation",
+    "title": "3DMOUSEneST: a volumetric label-free imaging method evaluating embryo–uterine interaction and decidualization efficacy",
+    "section": "Citation",
+    "text": "Citation\nSavolainen A, et al. (2024). 3DMOUSEneST: a volumetric label-free imaging method evaluating embryo–uterine interaction and decidualization efficacy. Development, 151(16), dev202938."
+  },
+  {
+    "objectID": "publications/articles/rinta-jaskari2024.html",
+    "href": "publications/articles/rinta-jaskari2024.html",
+    "title": "Collagen XVIII regulates extracellular matrix integrity in the developing nephrons and impacts nephron progenitor cell behavior",
+    "section": "",
+    "text": "This study demonstrates the critical role of collagen XVIII in maintaining ECM integrity during nephron development. We show how collagen XVIII deficiency affects nephron progenitor cell behavior and kidney morphogenesis."
+  },
+  {
+    "objectID": "publications/articles/rinta-jaskari2024.html#abstract",
+    "href": "publications/articles/rinta-jaskari2024.html#abstract",
+    "title": "Collagen XVIII regulates extracellular matrix integrity in the developing nephrons and impacts nephron progenitor cell behavior",
+    "section": "",
+    "text": "This study demonstrates the critical role of collagen XVIII in maintaining ECM integrity during nephron development. We show how collagen XVIII deficiency affects nephron progenitor cell behavior and kidney morphogenesis."
+  },
+  {
+    "objectID": "publications/articles/rinta-jaskari2024.html#key-findings",
+    "href": "publications/articles/rinta-jaskari2024.html#key-findings",
+    "title": "Collagen XVIII regulates extracellular matrix integrity in the developing nephrons and impacts nephron progenitor cell behavior",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nCollagen XVIII is essential for proper nephron ECM organization\nLoss of collagen XVIII disrupts nephron progenitor cell niche\nIdentified molecular mechanisms linking collagen XVIII to progenitor cell maintenance\nRevealed impact on adult kidney function and disease susceptibility"
+  },
+  {
+    "objectID": "publications/articles/rinta-jaskari2024.html#developmental-significance",
+    "href": "publications/articles/rinta-jaskari2024.html#developmental-significance",
+    "title": "Collagen XVIII regulates extracellular matrix integrity in the developing nephrons and impacts nephron progenitor cell behavior",
+    "section": "Developmental Significance",
+    "text": "Developmental Significance\nOur findings highlight the importance of specific ECM components in organ development and provide insights into congenital kidney disease mechanisms."
+  },
+  {
+    "objectID": "publications/articles/rinta-jaskari2024.html#citation",
+    "href": "publications/articles/rinta-jaskari2024.html#citation",
+    "title": "Collagen XVIII regulates extracellular matrix integrity in the developing nephrons and impacts nephron progenitor cell behavior",
+    "section": "Citation",
+    "text": "Citation\nRinta-Jaskari MM, et al. (2024). Collagen XVIII regulates extracellular matrix integrity in the developing nephrons and impacts nephron progenitor cell behavior. Matrix Biology, 131, 30-45."
+  },
+  {
+    "objectID": "publications/articles/petrov2025.html",
+    "href": "publications/articles/petrov2025.html",
+    "title": "ProToDeviseR: an automated protein topology scheme generator",
+    "section": "",
+    "text": "ProToDeviseR is an automated tool for generating protein topology schemes from structural data. This software addresses the need for rapid and accurate visualization of protein domain organization and topology."
+  },
+  {
+    "objectID": "publications/articles/petrov2025.html#abstract",
+    "href": "publications/articles/petrov2025.html#abstract",
+    "title": "ProToDeviseR: an automated protein topology scheme generator",
+    "section": "",
+    "text": "ProToDeviseR is an automated tool for generating protein topology schemes from structural data. This software addresses the need for rapid and accurate visualization of protein domain organization and topology."
+  },
+  {
+    "objectID": "publications/articles/petrov2025.html#key-findings",
+    "href": "publications/articles/petrov2025.html#key-findings",
+    "title": "ProToDeviseR: an automated protein topology scheme generator",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nAutomated generation of protein topology diagrams from PDB structures\nSupports multiple input formats and customizable output options\nAccurately identifies and visualizes secondary structure elements\nSignificantly reduces time required for topology scheme generation"
+  },
+  {
+    "objectID": "publications/articles/petrov2025.html#software-availability",
+    "href": "publications/articles/petrov2025.html#software-availability",
+    "title": "ProToDeviseR: an automated protein topology scheme generator",
+    "section": "Software Availability",
+    "text": "Software Availability\nProToDeviseR is open-source software available under the MIT license. The source code and documentation are available at the corresponding GitHub repository."
+  },
+  {
+    "objectID": "publications/articles/petrov2025.html#citation",
+    "href": "publications/articles/petrov2025.html#citation",
+    "title": "ProToDeviseR: an automated protein topology scheme generator",
+    "section": "Citation",
+    "text": "Citation\nPetrov P, Izzi V. (2025). ProToDeviseR: an automated protein topology scheme generator. BMC Bioinformatics, 26(1), 71."
+  },
+  {
+    "objectID": "publications/articles/petaisto2020.html",
+    "href": "publications/articles/petaisto2020.html",
+    "title": "Lack of collagen XVIII leads to lipodystrophy and perturbs hepatic glucose and lipid homeostasis",
+    "section": "",
+    "text": "This study demonstrates that collagen XVIII deficiency causes lipodystrophy and disrupts hepatic metabolic homeostasis. We reveal unexpected metabolic functions of this basement membrane component."
+  },
+  {
+    "objectID": "publications/articles/petaisto2020.html#abstract",
+    "href": "publications/articles/petaisto2020.html#abstract",
+    "title": "Lack of collagen XVIII leads to lipodystrophy and perturbs hepatic glucose and lipid homeostasis",
+    "section": "",
+    "text": "This study demonstrates that collagen XVIII deficiency causes lipodystrophy and disrupts hepatic metabolic homeostasis. We reveal unexpected metabolic functions of this basement membrane component."
+  },
+  {
+    "objectID": "publications/articles/petaisto2020.html#key-findings",
+    "href": "publications/articles/petaisto2020.html#key-findings",
+    "title": "Lack of collagen XVIII leads to lipodystrophy and perturbs hepatic glucose and lipid homeostasis",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nCollagen XVIII knockout mice develop lipodystrophy\nAltered hepatic glucose and lipid metabolism\nDisrupted adipose tissue ECM organization\nIdentified collagen XVIII-dependent metabolic pathways"
+  },
+  {
+    "objectID": "publications/articles/petaisto2020.html#metabolic-implications",
+    "href": "publications/articles/petaisto2020.html#metabolic-implications",
+    "title": "Lack of collagen XVIII leads to lipodystrophy and perturbs hepatic glucose and lipid homeostasis",
+    "section": "Metabolic Implications",
+    "text": "Metabolic Implications\nOur findings establish collagen XVIII as a critical regulator of metabolic homeostasis, with implications for understanding metabolic disorders."
+  },
+  {
+    "objectID": "publications/articles/petaisto2020.html#citation",
+    "href": "publications/articles/petaisto2020.html#citation",
+    "title": "Lack of collagen XVIII leads to lipodystrophy and perturbs hepatic glucose and lipid homeostasis",
+    "section": "Citation",
+    "text": "Citation\nPetäistö T, et al. (2020). Lack of collagen XVIII leads to lipodystrophy and perturbs hepatic glucose and lipid homeostasis. The Journal of Physiology, 598(16), 3373-3393."
+  },
+  {
+    "objectID": "publications/articles/martinez-nieto2022.html",
+    "href": "publications/articles/martinez-nieto2022.html",
+    "title": "Upregulated integrin α11 in the stroma of cutaneous squamous cell carcinoma promotes skin carcinogenesis",
+    "section": "",
+    "text": "This study reveals the pro-tumorigenic role of integrin α11 in the stroma of cutaneous squamous cell carcinoma. We demonstrate how stromal integrin α11 upregulation promotes skin carcinogenesis through ECM remodeling and fibroblast activation."
+  },
+  {
+    "objectID": "publications/articles/martinez-nieto2022.html#abstract",
+    "href": "publications/articles/martinez-nieto2022.html#abstract",
+    "title": "Upregulated integrin α11 in the stroma of cutaneous squamous cell carcinoma promotes skin carcinogenesis",
+    "section": "",
+    "text": "This study reveals the pro-tumorigenic role of integrin α11 in the stroma of cutaneous squamous cell carcinoma. We demonstrate how stromal integrin α11 upregulation promotes skin carcinogenesis through ECM remodeling and fibroblast activation."
+  },
+  {
+    "objectID": "publications/articles/martinez-nieto2022.html#key-findings",
+    "href": "publications/articles/martinez-nieto2022.html#key-findings",
+    "title": "Upregulated integrin α11 in the stroma of cutaneous squamous cell carcinoma promotes skin carcinogenesis",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nIntegrin α11 is upregulated in cancer-associated fibroblasts\nStromal integrin α11 promotes tumor growth and invasion\nIdentified downstream signaling pathways mediating pro-tumorigenic effects\nDemonstrated therapeutic potential of targeting stromal integrin α11"
+  },
+  {
+    "objectID": "publications/articles/martinez-nieto2022.html#therapeutic-implications",
+    "href": "publications/articles/martinez-nieto2022.html#therapeutic-implications",
+    "title": "Upregulated integrin α11 in the stroma of cutaneous squamous cell carcinoma promotes skin carcinogenesis",
+    "section": "Therapeutic Implications",
+    "text": "Therapeutic Implications\nOur findings suggest that targeting stromal integrin α11 could represent a novel therapeutic approach for cutaneous squamous cell carcinoma."
+  },
+  {
+    "objectID": "publications/articles/martinez-nieto2022.html#citation",
+    "href": "publications/articles/martinez-nieto2022.html#citation",
+    "title": "Upregulated integrin α11 in the stroma of cutaneous squamous cell carcinoma promotes skin carcinogenesis",
+    "section": "Citation",
+    "text": "Citation\nMartinez-Nieto GA, et al. (2022). Upregulated integrin α11 in the stroma of cutaneous squamous cell carcinoma promotes skin carcinogenesis. Frontiers in Oncology, 12, 981009."
+  },
+  {
+    "objectID": "publications/articles/lamba2025.html",
+    "href": "publications/articles/lamba2025.html",
+    "title": "MatriCom, a single-cell RNA-sequencing data mining tool to infer cell–extracellular matrix interactions",
+    "section": "",
+    "text": "We present MatriCom, a computational tool designed to mine single-cell RNA sequencing data to identify and analyze cell-extracellular matrix (ECM) interactions. This tool enables researchers to systematically explore ECM-ECM and cell-ECM communication systems at single-cell resolution."
+  },
+  {
+    "objectID": "publications/articles/lamba2025.html#abstract",
+    "href": "publications/articles/lamba2025.html#abstract",
+    "title": "MatriCom, a single-cell RNA-sequencing data mining tool to infer cell–extracellular matrix interactions",
+    "section": "",
+    "text": "We present MatriCom, a computational tool designed to mine single-cell RNA sequencing data to identify and analyze cell-extracellular matrix (ECM) interactions. This tool enables researchers to systematically explore ECM-ECM and cell-ECM communication systems at single-cell resolution."
+  },
+  {
+    "objectID": "publications/articles/lamba2025.html#key-findings",
+    "href": "publications/articles/lamba2025.html#key-findings",
+    "title": "MatriCom, a single-cell RNA-sequencing data mining tool to infer cell–extracellular matrix interactions",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nDeveloped a comprehensive scRNA-seq data mining framework for ECM interaction analysis\nEnables identification of cell-specific ECM communication networks\nProvides insights into ECM remodeling at single-cell resolution\nValidated across multiple tissue types and disease models"
+  },
+  {
+    "objectID": "publications/articles/lamba2025.html#software-availability",
+    "href": "publications/articles/lamba2025.html#software-availability",
+    "title": "MatriCom, a single-cell RNA-sequencing data mining tool to infer cell–extracellular matrix interactions",
+    "section": "Software Availability",
+    "text": "Software Availability\nMatriCom is freely available for academic use. The tool can be accessed through the corresponding author’s repository."
+  },
+  {
+    "objectID": "publications/articles/lamba2025.html#citation",
+    "href": "publications/articles/lamba2025.html#citation",
+    "title": "MatriCom, a single-cell RNA-sequencing data mining tool to infer cell–extracellular matrix interactions",
+    "section": "Citation",
+    "text": "Citation\nLamba R, et al. (2025). MatriCom, a single-cell RNA-sequencing data mining tool to infer cell–extracellular matrix interactions. Journal of Cell Science, 138(13), jcs263927."
+  },
+  {
+    "objectID": "publications/articles/kemppainen2022.html",
+    "href": "publications/articles/kemppainen2022.html",
+    "title": "The CMS19 disease model specifies a pivotal role for collagen XIII in bone homeostasis",
+    "section": "",
+    "text": "Using the CMS19 disease model, we demonstrate the pivotal role of collagen XIII in maintaining bone homeostasis. This study provides mechanistic insights into how collagen XIII mutations lead to skeletal abnormalities."
+  },
+  {
+    "objectID": "publications/articles/kemppainen2022.html#abstract",
+    "href": "publications/articles/kemppainen2022.html#abstract",
+    "title": "The CMS19 disease model specifies a pivotal role for collagen XIII in bone homeostasis",
+    "section": "",
+    "text": "Using the CMS19 disease model, we demonstrate the pivotal role of collagen XIII in maintaining bone homeostasis. This study provides mechanistic insights into how collagen XIII mutations lead to skeletal abnormalities."
+  },
+  {
+    "objectID": "publications/articles/kemppainen2022.html#key-findings",
+    "href": "publications/articles/kemppainen2022.html#key-findings",
+    "title": "The CMS19 disease model specifies a pivotal role for collagen XIII in bone homeostasis",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nCMS19 mutations disrupt collagen XIII function in bone\nAffected mice show altered bone microarchitecture\nIdentified disrupted signaling pathways in bone cells\nRevealed compensatory mechanisms in ECM organization"
+  },
+  {
+    "objectID": "publications/articles/kemppainen2022.html#disease-implications",
+    "href": "publications/articles/kemppainen2022.html#disease-implications",
+    "title": "The CMS19 disease model specifies a pivotal role for collagen XIII in bone homeostasis",
+    "section": "Disease Implications",
+    "text": "Disease Implications\nOur findings enhance understanding of congenital myasthenic syndrome with structural abnormalities and highlight the importance of collagen XIII in skeletal development."
+  },
+  {
+    "objectID": "publications/articles/kemppainen2022.html#citation",
+    "href": "publications/articles/kemppainen2022.html#citation",
+    "title": "The CMS19 disease model specifies a pivotal role for collagen XIII in bone homeostasis",
+    "section": "Citation",
+    "text": "Citation\nKemppainen AV, et al. (2022). The CMS19 disease model specifies a pivotal role for collagen XIII in bone homeostasis. Scientific Reports, 12(1), 5866."
+  },
+  {
+    "objectID": "publications/articles/izzi2022.html",
+    "href": "publications/articles/izzi2022.html",
+    "title": "Analysis of extracellular matrix network dynamics in cancer using the MatriNet database",
+    "section": "",
+    "text": "The extracellular matrix (ECM) undergoes extensive remodeling during cancer progression. We present MatriNet, a comprehensive database that captures ECM network dynamics across multiple cancer types. Our analysis reveals distinct ECM signatures associated with tumor progression and metastasis."
+  },
+  {
+    "objectID": "publications/articles/izzi2022.html#abstract",
+    "href": "publications/articles/izzi2022.html#abstract",
+    "title": "Analysis of extracellular matrix network dynamics in cancer using the MatriNet database",
+    "section": "",
+    "text": "The extracellular matrix (ECM) undergoes extensive remodeling during cancer progression. We present MatriNet, a comprehensive database that captures ECM network dynamics across multiple cancer types. Our analysis reveals distinct ECM signatures associated with tumor progression and metastasis."
+  },
+  {
+    "objectID": "publications/articles/izzi2022.html#key-findings",
+    "href": "publications/articles/izzi2022.html#key-findings",
+    "title": "Analysis of extracellular matrix network dynamics in cancer using the MatriNet database",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nIdentified over 25,000 curated ECM interactions\nDiscovered 210 statistically robust matrisome markers for 74 tumor subtypes\nDemonstrated dynamic ECM remodeling patterns during cancer progression\nValidated findings in independent cohorts"
+  },
+  {
+    "objectID": "publications/articles/izzi2022.html#database-access",
+    "href": "publications/articles/izzi2022.html#database-access",
+    "title": "Analysis of extracellular matrix network dynamics in cancer using the MatriNet database",
+    "section": "Database Access",
+    "text": "Database Access\nThe MatriNet database is available for research use. Contact the authors for access."
+  },
+  {
+    "objectID": "publications/articles/izzi2022.html#citation",
+    "href": "publications/articles/izzi2022.html#citation",
+    "title": "Analysis of extracellular matrix network dynamics in cancer using the MatriNet database",
+    "section": "Citation",
+    "text": "Citation\nIzzi V, et al. (2022). Analysis of extracellular matrix network dynamics in cancer using the MatriNet database. Matrix Biology, 113, 1-15."
+  },
+  {
+    "objectID": "publications/articles/izzi2020.html",
+    "href": "publications/articles/izzi2020.html",
+    "title": "Pan-cancer analysis of the genomic alterations and mutations of the matrisome",
+    "section": "",
+    "text": "This comprehensive pan-cancer analysis reveals the landscape of genomic alterations and mutations affecting the matrisome. We identify recurrent patterns of ECM dysregulation across tumor types and their clinical significance."
+  },
+  {
+    "objectID": "publications/articles/izzi2020.html#abstract",
+    "href": "publications/articles/izzi2020.html#abstract",
+    "title": "Pan-cancer analysis of the genomic alterations and mutations of the matrisome",
+    "section": "",
+    "text": "This comprehensive pan-cancer analysis reveals the landscape of genomic alterations and mutations affecting the matrisome. We identify recurrent patterns of ECM dysregulation across tumor types and their clinical significance."
+  },
+  {
+    "objectID": "publications/articles/izzi2020.html#key-findings",
+    "href": "publications/articles/izzi2020.html#key-findings",
+    "title": "Pan-cancer analysis of the genomic alterations and mutations of the matrisome",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nSystematic characterization of matrisome mutations across 33 cancer types\nIdentified driver mutations in ECM genes\nRevealed convergent and divergent patterns of ECM alterations\nCorrelated genomic changes with patient survival"
+  },
+  {
+    "objectID": "publications/articles/izzi2020.html#clinical-relevance",
+    "href": "publications/articles/izzi2020.html#clinical-relevance",
+    "title": "Pan-cancer analysis of the genomic alterations and mutations of the matrisome",
+    "section": "Clinical Relevance",
+    "text": "Clinical Relevance\nOur findings provide a resource for understanding ECM-driven oncogenesis and identifying potential therapeutic targets within the tumor matrisome."
+  },
+  {
+    "objectID": "publications/articles/izzi2020.html#citation",
+    "href": "publications/articles/izzi2020.html#citation",
+    "title": "Pan-cancer analysis of the genomic alterations and mutations of the matrisome",
+    "section": "Citation",
+    "text": "Citation\nIzzi V, Davis MN, Naba A. (2020). Pan-cancer analysis of the genomic alterations and mutations of the matrisome. Cancers, 12(8), 2046."
+  },
+  {
+    "objectID": "publications/articles/holstein2021.html",
+    "href": "publications/articles/holstein2021.html",
+    "title": "The burden of post-translational modification (PTM)—disrupting mutations in the tumor matrisome",
+    "section": "",
+    "text": "This study systematically analyzes post-translational modification-disrupting mutations in the tumor matrisome across cancer types. We reveal how PTM alterations in ECM proteins contribute to cancer progression."
+  },
+  {
+    "objectID": "publications/articles/holstein2021.html#abstract",
+    "href": "publications/articles/holstein2021.html#abstract",
+    "title": "The burden of post-translational modification (PTM)—disrupting mutations in the tumor matrisome",
+    "section": "",
+    "text": "This study systematically analyzes post-translational modification-disrupting mutations in the tumor matrisome across cancer types. We reveal how PTM alterations in ECM proteins contribute to cancer progression."
+  },
+  {
+    "objectID": "publications/articles/holstein2021.html#key-findings",
+    "href": "publications/articles/holstein2021.html#key-findings",
+    "title": "The burden of post-translational modification (PTM)—disrupting mutations in the tumor matrisome",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nIdentified recurrent PTM-disrupting mutations in matrisome genes\nCharacterized functional consequences of PTM disruption\nRevealed cancer type-specific PTM mutation patterns\nDemonstrated impact on ECM structure and tumor behavior"
+  },
+  {
+    "objectID": "publications/articles/holstein2021.html#significance",
+    "href": "publications/articles/holstein2021.html#significance",
+    "title": "The burden of post-translational modification (PTM)—disrupting mutations in the tumor matrisome",
+    "section": "Significance",
+    "text": "Significance\nPTM-disrupting mutations represent an underappreciated mechanism of ECM dysfunction in cancer, with implications for biomarker development and therapeutic targeting."
+  },
+  {
+    "objectID": "publications/articles/holstein2021.html#citation",
+    "href": "publications/articles/holstein2021.html#citation",
+    "title": "The burden of post-translational modification (PTM)—disrupting mutations in the tumor matrisome",
+    "section": "Citation",
+    "text": "Citation\nHolstein E, et al. (2021). The burden of post-translational modification (PTM)—disrupting mutations in the tumor matrisome. Cancers, 13(5), 1081."
+  },
+  {
+    "objectID": "publications/articles/devarajan2023.html",
+    "href": "publications/articles/devarajan2023.html",
+    "title": "Targeting collagen XVIII improves the efficiency of ErbB inhibitors in breast cancer models",
+    "section": "",
+    "text": "This study demonstrates that targeting collagen XVIII enhances the therapeutic efficacy of ErbB inhibitors in breast cancer. We reveal a novel mechanism of drug resistance mediated by collagen XVIII-dependent signaling."
+  },
+  {
+    "objectID": "publications/articles/devarajan2023.html#abstract",
+    "href": "publications/articles/devarajan2023.html#abstract",
+    "title": "Targeting collagen XVIII improves the efficiency of ErbB inhibitors in breast cancer models",
+    "section": "",
+    "text": "This study demonstrates that targeting collagen XVIII enhances the therapeutic efficacy of ErbB inhibitors in breast cancer. We reveal a novel mechanism of drug resistance mediated by collagen XVIII-dependent signaling."
+  },
+  {
+    "objectID": "publications/articles/devarajan2023.html#key-findings",
+    "href": "publications/articles/devarajan2023.html#key-findings",
+    "title": "Targeting collagen XVIII improves the efficiency of ErbB inhibitors in breast cancer models",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nCollagen XVIII expression correlates with ErbB inhibitor resistance\nTargeting collagen XVIII sensitizes tumors to ErbB inhibition\nIdentified molecular mechanisms linking collagen XVIII to drug resistance\nValidated combination therapy approach in preclinical models"
+  },
+  {
+    "objectID": "publications/articles/devarajan2023.html#clinical-implications",
+    "href": "publications/articles/devarajan2023.html#clinical-implications",
+    "title": "Targeting collagen XVIII improves the efficiency of ErbB inhibitors in breast cancer models",
+    "section": "Clinical Implications",
+    "text": "Clinical Implications\nOur findings support the development of combination therapies targeting both collagen XVIII and ErbB signaling for improved breast cancer treatment outcomes."
+  },
+  {
+    "objectID": "publications/articles/devarajan2023.html#citation",
+    "href": "publications/articles/devarajan2023.html#citation",
+    "title": "Targeting collagen XVIII improves the efficiency of ErbB inhibitors in breast cancer models",
+    "section": "Citation",
+    "text": "Citation\nDevarajan R, et al. (2023). Targeting collagen XVIII improves the efficiency of ErbB inhibitors in breast cancer models. The Journal of Clinical Investigation, 133(18), e159181."
+  },
+  {
+    "objectID": "publications/articles/benvenuto2021.html",
+    "href": "publications/articles/benvenuto2021.html",
+    "title": "Tumor antigens heterogeneity and immune response-targeting neoantigens in breast cancer",
+    "section": "",
+    "text": "This review examines tumor antigen heterogeneity in breast cancer and strategies for targeting neoantigens. We discuss the role of the ECM in modulating immune responses and implications for immunotherapy development."
+  },
+  {
+    "objectID": "publications/articles/benvenuto2021.html#abstract",
+    "href": "publications/articles/benvenuto2021.html#abstract",
+    "title": "Tumor antigens heterogeneity and immune response-targeting neoantigens in breast cancer",
+    "section": "",
+    "text": "This review examines tumor antigen heterogeneity in breast cancer and strategies for targeting neoantigens. We discuss the role of the ECM in modulating immune responses and implications for immunotherapy development."
+  },
+  {
+    "objectID": "publications/articles/benvenuto2021.html#key-topics",
+    "href": "publications/articles/benvenuto2021.html#key-topics",
+    "title": "Tumor antigens heterogeneity and immune response-targeting neoantigens in breast cancer",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nNeoantigen generation and presentation in breast cancer\nECM influence on tumor-immune interactions\nStrategies for neoantigen-based immunotherapy\nOvercoming immune evasion mechanisms"
+  },
+  {
+    "objectID": "publications/articles/benvenuto2021.html#therapeutic-perspectives",
+    "href": "publications/articles/benvenuto2021.html#therapeutic-perspectives",
+    "title": "Tumor antigens heterogeneity and immune response-targeting neoantigens in breast cancer",
+    "section": "Therapeutic Perspectives",
+    "text": "Therapeutic Perspectives\nUnderstanding the interplay between tumor antigens, ECM, and immune responses is crucial for developing effective breast cancer immunotherapies."
+  },
+  {
+    "objectID": "publications/articles/benvenuto2021.html#citation",
+    "href": "publications/articles/benvenuto2021.html#citation",
+    "title": "Tumor antigens heterogeneity and immune response-targeting neoantigens in breast cancer",
+    "section": "Citation",
+    "text": "Citation\nBenvenuto M, Focaccetti C, Izzi V, Masuelli L, Modesti A, Bei R. (2021). Tumor antigens heterogeneity and immune response-targeting neoantigens in breast cancer. Seminars in Cancer Biology, 72, 65-75."
+  },
+  {
+    "objectID": "people/uras/example_ura.html",
+    "href": "people/uras/example_ura.html",
+    "title": "Example Research Assistant",
+    "section": "",
+    "text": "Home\n    People\n    Research Assistants\n    Example Research Assistant"
+  },
+  {
+    "objectID": "people/uras/example_ura.html#biography",
+    "href": "people/uras/example_ura.html#biography",
+    "title": "Example Research Assistant",
+    "section": "Biography",
+    "text": "Biography\nThis is an example research assistant profile. Replace this content with information about your actual research assistants."
+  },
+  {
+    "objectID": "people/uras/example_ura.html#research-interests",
+    "href": "people/uras/example_ura.html#research-interests",
+    "title": "Example Research Assistant",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nData analysis\nBioinformatics tools\nLaboratory support"
+  },
+  {
+    "objectID": "people/uras/example_ura.html#education",
+    "href": "people/uras/example_ura.html#education",
+    "title": "Example Research Assistant",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Oulu | Oulu, Finland BSc in [Relevant Field] | 2020–2024"
+  },
+  {
+    "objectID": "people/staff/izzi_valerio.html",
+    "href": "people/staff/izzi_valerio.html",
+    "title": "Valerio Izzi, PhD",
+    "section": "",
+    "text": "Valerio Izzi is an Associate Professor of Bioinformatics at the University of Oulu, Finland. He leads the Izzi Group on Bioinformatics and Data Analysis within the Faculty of Biochemistry and Molecular Medicine. His research focuses on understanding the regulation of extracellular matrix (ECM) production in cancer and its effects on the tumor microenvironment, hematopoiesis, and immunity.\nDr. Izzi established his independent research group in 2020 after being tenured in the Profi-5 call at the University of Oulu. His lab has become internationally recognized for developing computational tools and databases for matrisome analysis."
+  },
+  {
+    "objectID": "people/staff/izzi_valerio.html#biography",
+    "href": "people/staff/izzi_valerio.html#biography",
+    "title": "Valerio Izzi, PhD",
+    "section": "",
+    "text": "Valerio Izzi is an Associate Professor of Bioinformatics at the University of Oulu, Finland. He leads the Izzi Group on Bioinformatics and Data Analysis within the Faculty of Biochemistry and Molecular Medicine. His research focuses on understanding the regulation of extracellular matrix (ECM) production in cancer and its effects on the tumor microenvironment, hematopoiesis, and immunity.\nDr. Izzi established his independent research group in 2020 after being tenured in the Profi-5 call at the University of Oulu. His lab has become internationally recognized for developing computational tools and databases for matrisome analysis."
+  },
+  {
+    "objectID": "people/staff/izzi_valerio.html#research-focus",
+    "href": "people/staff/izzi_valerio.html#research-focus",
+    "title": "Valerio Izzi, PhD",
+    "section": "Research Focus",
+    "text": "Research Focus\n\nExtracellular Matrix in Cancer - Understanding ECM dynamics in tumor development and metastasis\nTumor Microenvironment - Computational analysis of tumor-stroma interactions\nCancer Bioinformatics - Developing algorithms for studying molecular networks in cancer\nMachine Learning in Omics - Applying AI techniques to single cell and spatial omics analysis"
+  },
+  {
+    "objectID": "people/staff/izzi_valerio.html#key-publications",
+    "href": "people/staff/izzi_valerio.html#key-publications",
+    "title": "Valerio Izzi, PhD",
+    "section": "Key Publications",
+    "text": "Key Publications\n\nR Lamba, AM Paguntalan, PB Petrov, A Naba, V Izzi (2025). MatriCom, a single-cell RNA-sequencing data mining tool to infer cell–extracellular matrix interactions. Journal of Cell Science.\nPetrov PB, Considine JM, Izzi V, Naba A. (2023). MatrisomeAnalyzeR – a suite of tools to annotate and quantify ECM molecules in big datasets across organisms. Journal of Cell Science.\nJ Kontio, VR Sonora, V Pesola, R Lamba, A Dittmann…V Izzi (2022). Analysis of extracellular matrix network dynamics in cancer using the MatriNet database. Matrix Biology.\n\nView all 46 publications on Google Scholar"
+  },
+  {
+    "objectID": "people/staff/izzi_valerio.html#software-and-tools",
+    "href": "people/staff/izzi_valerio.html#software-and-tools",
+    "title": "Valerio Izzi, PhD",
+    "section": "Software and Tools",
+    "text": "Software and Tools\n\nMatriCom - R package for matrisome communication analysis in scRNA-seq\nProToDeviseR - Automatic protein topology visualization\nMatrisomeAnalyzeR - Comprehensive ECM analysis suite\nMatriNet Database - Curated database of ECM interactions"
+  },
+  {
+    "objectID": "people/staff/izzi_valerio.html#contact",
+    "href": "people/staff/izzi_valerio.html#contact",
+    "title": "Valerio Izzi, PhD",
+    "section": "Contact",
+    "text": "Contact\nEmail: Valerio.Izzi[AT]oulu.fi\nPhone: +358 46 555 3793\nOffice: Aapistie 7 A, University of Oulu\nPostal: P.O. Box 5400, FI-90014 University of Oulu, Finland"
+  },
+  {
+    "objectID": "people/gras/rijuta_lamba.html",
+    "href": "people/gras/rijuta_lamba.html",
+    "title": "Rijuta Lamba",
+    "section": "",
+    "text": "Home\n    People\n    Graduate Students\n    Rijuta Lamba"
+  },
+  {
+    "objectID": "people/gras/rijuta_lamba.html#biography",
+    "href": "people/gras/rijuta_lamba.html#biography",
+    "title": "Rijuta Lamba",
+    "section": "Biography",
+    "text": "Biography\nI am a Doctoral Student in Bioinformatics in the Izzi Group since April 2021.\nI completed my Bachelors’ degree in Biological Sciences from the University of Florence, Italy. During my stay in Florence, I interned at the Institute of Ecosystem Studies of the National Council of Research in Florence for my thesis and worked on understanding the diversity and phylogeny of Nostoc cf communales(cyanobacteria) from Greenland. My internship gave me the first insight into the world of computational biology, it ensnared my curiosity and propelled me to go on and get my Masters’ degree in Bioinformatics from the University of Bologna, Italy. I carried out at my Masters’ thesis work as an Erasmus scholar at the University of Ghent, Belgium. During my Masters’, I found myself enchanted by the world of Systems and In-Silico Biology and the entire framework of Machine Learning. I fell in love with this mathematical framework to understand biological systems, that allows us to decode seemingly intractable biological mysteries and I am particularly interested in using this framework for modelling the biology of disease, more specifically, cancer.\nCurrently, I am exploring the matrisome-cancer interface to understand the role that matrisome mutations may play in defining the landscape of the Tumor Microenvironment using a wide variety of computational methods."
+  },
+  {
+    "objectID": "people/gras/rijuta_lamba.html#research-interests",
+    "href": "people/gras/rijuta_lamba.html#research-interests",
+    "title": "Rijuta Lamba",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nBioinformatics\nCancer Research\nSystems Biology\nMachine Learning\nArtificial Intelligence"
+  },
+  {
+    "objectID": "people/gras/rijuta_lamba.html#education",
+    "href": "people/gras/rijuta_lamba.html#education",
+    "title": "Rijuta Lamba",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Oulu | Oulu, Finland PhD Student [Biochemistry and Molecular Medicine], 2021–Current\nUniversita di Bologna | Bologna, Italy MSc in [ Bioinformatics] | 2017–2020\nUniversita degli Studi di Firenze | Florence, Italy BSc in [Biological Sciences] | 2017"
+  },
+  {
+    "objectID": "people/gras/jiahui_wui.html",
+    "href": "people/gras/jiahui_wui.html",
+    "title": "Jiahui Wu",
+    "section": "",
+    "text": "Home\n    People\n    Graduate Students\n    Jiahui Wu"
+  },
+  {
+    "objectID": "people/gras/jiahui_wui.html#biography",
+    "href": "people/gras/jiahui_wui.html#biography",
+    "title": "Jiahui Wu",
+    "section": "Biography",
+    "text": "Biography\nRemote"
+  },
+  {
+    "objectID": "people/gras/jiahui_wui.html#research-interests",
+    "href": "people/gras/jiahui_wui.html#research-interests",
+    "title": "Jiahui Wu",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nMachine Learning\nGraph Neural Networks\nBioinformatics"
+  },
+  {
+    "objectID": "people/gras/jiahui_wui.html#education",
+    "href": "people/gras/jiahui_wui.html#education",
+    "title": "Jiahui Wu",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Oulu | Oulu, Finland PhD Student [Biochemistry and Molecular Medicine (Bioinformatics)], 2025–Current\nThe Beĳing University of Technology | Beijing, Finland MSc in [Software Engineering] | 2021–2024\nThe North University of China | Taiyuan, China BSc in [Software Engineering] | 2016–2020"
+  },
+  {
+    "objectID": "people/gras/annalena_dittmann.html",
+    "href": "people/gras/annalena_dittmann.html",
+    "title": "Annalena Dittmann",
+    "section": "",
+    "text": "Home\n    People\n    Graduate Students\n    Annalena Dittmann"
+  },
+  {
+    "objectID": "people/gras/annalena_dittmann.html#biography",
+    "href": "people/gras/annalena_dittmann.html#biography",
+    "title": "Annalena Dittmann",
+    "section": "Biography",
+    "text": "Biography\nWork on the topic “Targeting Acute Myeloid Leukemia (AML) by the Leukemic Matrisome Interface (LMI)”. Thereby I am using and developing an in vitro bone marrow model to investigate how AML cells manipulate their environment via the extracellular matrix to evade chemotherapy and thus lead to relapse of the disease."
+  },
+  {
+    "objectID": "people/gras/annalena_dittmann.html#research-interests",
+    "href": "people/gras/annalena_dittmann.html#research-interests",
+    "title": "Annalena Dittmann",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nExtracellular Matrix\nBone Marrow\nLeukemia"
+  },
+  {
+    "objectID": "people/gras/annalena_dittmann.html#education",
+    "href": "people/gras/annalena_dittmann.html#education",
+    "title": "Annalena Dittmann",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Oulu | Oulu, Finland PhD Student [Biochemistry and Molecular Medicine], 2020–Current\nUniversität Rostock | Rostock, Germany MSc in [ Microbiology and Biochemistry] | 2017–2019\nUniversität Rostock | Rostock, Germany BSc in [Biology/Biological Sciences] | 2014–2017"
+  },
+  {
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "Izzi Lab",
+    "section": "",
+    "text": "Home\n    Opportunities"
+  },
+  {
+    "objectID": "opportunities.html#join-our-team",
+    "href": "opportunities.html#join-our-team",
+    "title": "Izzi Lab",
+    "section": "Join Our Team",
+    "text": "Join Our Team\nThe Izzi Lab is always looking for talented and motivated individuals to join our interdisciplinary research group. We welcome applications from candidates with backgrounds in bioinformatics, computational biology, biochemistry, molecular medicine, mathematics, computer science, and related fields.\nWe offer opportunities at all levels, from PhD positions to postdoctoral positions. We also accept BSc and MSc students for internship projects.\nIf you’re interested in joining our team, please reach out to Val at Valerio.Izzi[AT]oulu.fi with your CV and a brief description of your research interests.\nContact Val"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Izzi Group on Bioinformatics and Data Analysis",
+    "section": "",
+    "text": "We are an interdisciplinary research group based within the Faculty of Biochemistry and Molecular Medicine at the University of Oulu. We develop algorithms and tools for studying molecular networks with a focus on the extracellular matrix in health and disease, perform integrative analyses of the tumor microenvironment, and provide bioinformatics services."
+  },
+  {
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.\n\n\nThis is the Izzi Lab website - an academic research group website for the Izzi Group on Bioinformatics and Data Analysis at the University of Oulu, Finland. The site is built with Quarto and focuses on showcasing research, publications, team members, and news.\nSite URL: https://izzilab.github.io Repository: https://github.com/izzilab/izzilab\n\n\n\n# Build the website (generates files in docs/ directory)\nquarto render\n\n# Preview the website locally with live reload\nquarto preview\n\n# Render a specific file\nquarto render [filename.qmd]\n\n# Clean generated files\nquarto clean\n\n\n\n\n\n\nFramework: Quarto static site generator\nOutput: Static HTML in docs/ directory for GitHub Pages hosting\nStyling: Bootstrap (Cosmo theme) with custom CSS in styles.css\nIcons: Font Awesome 6.5.2 (loaded via CDN)\nProject Type: RStudio project (izzilab.Rproj) with optional R integration\n\n\n\n\n\nTeam Members: 10 profiles (2 staff, 6 graduate students, 1 example URA, 1 example alumni)\nPublications: 27 articles + 1 example conference proceeding (2017-2025)\nNews Posts: 2 posts (grant2024, welcome2025)\n\n\n\n\nThe site follows a modular structure where each type of content has its own directory and consistent format:\n\nPeople Profiles (people/)\n\nstaff/ - Principal investigator and staff (izzi_valerio.qmd, petrov_petar.qmd)\ngras/ - Graduate research assistants (6 members: annalena_dittmann, iida_olikainen, jiahui_wui, oshinjo_ayomide, rijuta_lamba, vilma_pesola)\nuras/ - Undergraduate research assistants (example_ura.qmd template)\nalumni/ - Former members (example_alumni.qmd template)\nFrontmatter includes: pagetitle, title, subtitle, sortby, image, toc, about template with links\nUses Quarto’s “trestles” about template for consistent profile layouts\n\nPublications (publications/)\n\narticles/ - Journal articles (27 publications, 2017-2025)\nproceedings/ - Conference proceedings (example_conference.qmd template)\nNaming convention: authorYEAR.qmd (e.g., lamba2025.qmd, petrov2023.qmd)\nFrontmatter: title, author, year, publication, doi, categories\nStructure: Abstract, Key Findings, Software Availability (if applicable), Citation\n\nNews/Blog Posts (posts/)\n\nEach post in its own folder with index.qmd\nCurrent posts: grant2024/, welcome2025/\nFrontmatter: title, author, date, categories, image\nPosts can include images and other assets in the same folder\n\nMain Pages (root level)\n\nindex.qmd - Homepage with hero image and overview\nresearch.qmd - Research focus areas\nresources.qmd - Software tools and datasets\nopportunities.qmd - Job openings and student positions\ncontact.qmd - Contact information\nnews.qmd - News listing page\npeople.qmd - Team listing page\npublications.qmd - Publications listing page\n\n\n\n\n\n_quarto.yml - Main configuration file: - Output directory: docs/ for GitHub Pages - Favicon: img/izzilab_logo.png - Theme: Cosmo (Bootstrap) - Footer: “Copyright 2025 © Izzi Lab - University of Oulu” - Navigation: News | People | Research | Publications | Resources | Opportunities | Contact - Freeze: auto (for computational documents)\nImage Assets (img/): - Lab logo: izzilab_logo.png - Hero image: hero_image_banana.png - Section icons: *.svg files (news, people, projects, publications, resources, etc.) - Team photos: firstname_lastname.jpg/jpeg/webp - Placeholder: placeholder.jpeg\n\n\n\nWhen adding new content, follow these patterns:\n\nNew team member:\npeople/[role]/firstname_lastname.qmd\n\nAdd photo to img/ as firstname_lastname.jpg\nUse existing profiles as templates\nSet sortby for display order\n\nNew publication:\npublications/articles/authorYEAR.qmd\n\nFollow existing format: Abstract, Key Findings, Citation\nInclude DOI and categories\n\nNew blog post:\nposts/descriptive-name/index.qmd\n\nInclude date (YYYY-MM-DD format) and categories\nAdd images to the post folder\n\nImages: Place in img/ and reference with relative paths (e.g., ../../img/filename.jpg)\n\n\n\n\n\nThe site is deployed via GitHub Pages from the docs/ directory\nAlways run quarto render before committing to ensure docs/ is updated\nUse consistent naming: lowercase, underscores for spaces in filenames\nCategories in posts and publications help with organization and discovery\nThe sortby field in people profiles controls display order (lower numbers appear first)\nExample/template files exist for URAs, alumni, and conference proceedings"
+  },
+  {
+    "objectID": "CLAUDE.html#project-overview",
+    "href": "CLAUDE.html#project-overview",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "This is the Izzi Lab website - an academic research group website for the Izzi Group on Bioinformatics and Data Analysis at the University of Oulu, Finland. The site is built with Quarto and focuses on showcasing research, publications, team members, and news.\nSite URL: https://izzilab.github.io Repository: https://github.com/izzilab/izzilab"
+  },
+  {
+    "objectID": "CLAUDE.html#build-and-development-commands",
+    "href": "CLAUDE.html#build-and-development-commands",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "# Build the website (generates files in docs/ directory)\nquarto render\n\n# Preview the website locally with live reload\nquarto preview\n\n# Render a specific file\nquarto render [filename.qmd]\n\n# Clean generated files\nquarto clean"
+  },
+  {
+    "objectID": "CLAUDE.html#architecture-and-content-structure",
+    "href": "CLAUDE.html#architecture-and-content-structure",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "Framework: Quarto static site generator\nOutput: Static HTML in docs/ directory for GitHub Pages hosting\nStyling: Bootstrap (Cosmo theme) with custom CSS in styles.css\nIcons: Font Awesome 6.5.2 (loaded via CDN)\nProject Type: RStudio project (izzilab.Rproj) with optional R integration\n\n\n\n\n\nTeam Members: 10 profiles (2 staff, 6 graduate students, 1 example URA, 1 example alumni)\nPublications: 27 articles + 1 example conference proceeding (2017-2025)\nNews Posts: 2 posts (grant2024, welcome2025)\n\n\n\n\nThe site follows a modular structure where each type of content has its own directory and consistent format:\n\nPeople Profiles (people/)\n\nstaff/ - Principal investigator and staff (izzi_valerio.qmd, petrov_petar.qmd)\ngras/ - Graduate research assistants (6 members: annalena_dittmann, iida_olikainen, jiahui_wui, oshinjo_ayomide, rijuta_lamba, vilma_pesola)\nuras/ - Undergraduate research assistants (example_ura.qmd template)\nalumni/ - Former members (example_alumni.qmd template)\nFrontmatter includes: pagetitle, title, subtitle, sortby, image, toc, about template with links\nUses Quarto’s “trestles” about template for consistent profile layouts\n\nPublications (publications/)\n\narticles/ - Journal articles (27 publications, 2017-2025)\nproceedings/ - Conference proceedings (example_conference.qmd template)\nNaming convention: authorYEAR.qmd (e.g., lamba2025.qmd, petrov2023.qmd)\nFrontmatter: title, author, year, publication, doi, categories\nStructure: Abstract, Key Findings, Software Availability (if applicable), Citation\n\nNews/Blog Posts (posts/)\n\nEach post in its own folder with index.qmd\nCurrent posts: grant2024/, welcome2025/\nFrontmatter: title, author, date, categories, image\nPosts can include images and other assets in the same folder\n\nMain Pages (root level)\n\nindex.qmd - Homepage with hero image and overview\nresearch.qmd - Research focus areas\nresources.qmd - Software tools and datasets\nopportunities.qmd - Job openings and student positions\ncontact.qmd - Contact information\nnews.qmd - News listing page\npeople.qmd - Team listing page\npublications.qmd - Publications listing page\n\n\n\n\n\n_quarto.yml - Main configuration file: - Output directory: docs/ for GitHub Pages - Favicon: img/izzilab_logo.png - Theme: Cosmo (Bootstrap) - Footer: “Copyright 2025 © Izzi Lab - University of Oulu” - Navigation: News | People | Research | Publications | Resources | Opportunities | Contact - Freeze: auto (for computational documents)\nImage Assets (img/): - Lab logo: izzilab_logo.png - Hero image: hero_image_banana.png - Section icons: *.svg files (news, people, projects, publications, resources, etc.) - Team photos: firstname_lastname.jpg/jpeg/webp - Placeholder: placeholder.jpeg\n\n\n\nWhen adding new content, follow these patterns:\n\nNew team member:\npeople/[role]/firstname_lastname.qmd\n\nAdd photo to img/ as firstname_lastname.jpg\nUse existing profiles as templates\nSet sortby for display order\n\nNew publication:\npublications/articles/authorYEAR.qmd\n\nFollow existing format: Abstract, Key Findings, Citation\nInclude DOI and categories\n\nNew blog post:\nposts/descriptive-name/index.qmd\n\nInclude date (YYYY-MM-DD format) and categories\nAdd images to the post folder\n\nImages: Place in img/ and reference with relative paths (e.g., ../../img/filename.jpg)\n\n\n\n\n\nThe site is deployed via GitHub Pages from the docs/ directory\nAlways run quarto render before committing to ensure docs/ is updated\nUse consistent naming: lowercase, underscores for spaces in filenames\nCategories in posts and publications help with organization and discovery\nThe sortby field in people profiles controls display order (lower numbers appear first)\nExample/template files exist for URAs, alumni, and conference proceedings"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Izzi Lab",
+    "section": "",
+    "text": "Home\n    Contact"
+  },
+  {
+    "objectID": "contact.html#visit-us",
+    "href": "contact.html#visit-us",
+    "title": "Izzi Lab",
+    "section": "Visit Us",
+    "text": "Visit Us\nThe Izzi Lab is located at the University of Oulu, Faculty of Biochemistry and Molecular Medicine.\n\nPostal Address: Faculty of Biochemistry and Molecular Medicine P.O. Box 5400 90014 University of Oulu, Finland\nVisiting Address: Faculty of Biochemistry and Molecular Medicine Aapistie 7A 90220 Oulu, Finland"
+  },
+  {
+    "objectID": "contact.html#email-us",
+    "href": "contact.html#email-us",
+    "title": "Izzi Lab",
+    "section": "Email Us",
+    "text": "Email Us\nPrincipal Investigator: Valerio Izzi, Associate Professor of Bioinformatics Email: valerio.izzi[AT]oulu.fi (valerio.izzi at oulu dot fi)\nGeneral Inquiries: For general questions about our research, collaborations, or opportunities, please contact the PI directly."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Izzi Lab",
+    "section": "",
+    "text": "Home\n    News\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the Izzi Lab Website\n\n\n\nnews\n\nannouncements\n\n\n\n\n\n\n\n\n\nNov 25, 2025\n\n\nValerio Izzi\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/alumni/example_alumni.html",
+    "href": "people/alumni/example_alumni.html",
+    "title": "Example Alumni",
+    "section": "",
+    "text": "Home\n    People\n    Alumni\n    Example Alumni"
+  },
+  {
+    "objectID": "people/alumni/example_alumni.html#biography",
+    "href": "people/alumni/example_alumni.html#biography",
+    "title": "Example Alumni",
+    "section": "Biography",
+    "text": "Biography\nThis is an example alumni profile. Replace this content with information about your former lab members."
+  },
+  {
+    "objectID": "people/alumni/example_alumni.html#research-focus",
+    "href": "people/alumni/example_alumni.html#research-focus",
+    "title": "Example Alumni",
+    "section": "Research Focus",
+    "text": "Research Focus\n\nComputational cancer biology\nExtracellular matrix analysis\nMachine learning applications"
+  },
+  {
+    "objectID": "people/alumni/example_alumni.html#current-position",
+    "href": "people/alumni/example_alumni.html#current-position",
+    "title": "Example Alumni",
+    "section": "Current Position",
+    "text": "Current Position\n\nPostdoctoral Researcher | [Current Institution] | 2024–Current"
+  },
+  {
+    "objectID": "people/alumni/example_alumni.html#education",
+    "href": "people/alumni/example_alumni.html#education",
+    "title": "Example Alumni",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Oulu | Oulu, Finland PhD in Bioinformatics | 2020–2024\nPrevious University | Location MSc in [Relevant Field] | 2018–2020"
+  },
+  {
+    "objectID": "people/gras/iida_olikainen.html",
+    "href": "people/gras/iida_olikainen.html",
+    "title": "Iida Olikainen",
+    "section": "",
+    "text": "Home\n    People\n    Graduate Students\n    Iida Olikainen"
+  },
+  {
+    "objectID": "people/gras/iida_olikainen.html#biography",
+    "href": "people/gras/iida_olikainen.html#biography",
+    "title": "Iida Olikainen",
+    "section": "Biography",
+    "text": "Biography\nIida Olikainen is currently pursuing both an MD at the University of Oulu and a PhD in the Izzi laboratory."
+  },
+  {
+    "objectID": "people/gras/iida_olikainen.html#research-interests",
+    "href": "people/gras/iida_olikainen.html#research-interests",
+    "title": "Iida Olikainen",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nBioinformatics\nComputational Biology"
+  },
+  {
+    "objectID": "people/gras/iida_olikainen.html#education",
+    "href": "people/gras/iida_olikainen.html#education",
+    "title": "Iida Olikainen",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Oulu | Oulu, Finland MD Student | TBD–Current\nUniversity of Oulu | Oulu, Finland PhD Student | TBD–Current"
+  },
+  {
+    "objectID": "people/gras/oshinjo_ayomide.html",
+    "href": "people/gras/oshinjo_ayomide.html",
+    "title": "Ayomide Oshinjo",
+    "section": "",
+    "text": "Home\n    People\n    Graduate Students\n    Ayomide Oshinjo"
+  },
+  {
+    "objectID": "people/gras/oshinjo_ayomide.html#biography",
+    "href": "people/gras/oshinjo_ayomide.html#biography",
+    "title": "Ayomide Oshinjo",
+    "section": "Biography",
+    "text": "Biography\nDay one in Bioinfo"
+  },
+  {
+    "objectID": "people/gras/oshinjo_ayomide.html#research-interests",
+    "href": "people/gras/oshinjo_ayomide.html#research-interests",
+    "title": "Ayomide Oshinjo",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nSpatial and Single Cell Omics\nECM and Cancer Systems Biology\nTumor Microenvironment"
+  },
+  {
+    "objectID": "people/gras/oshinjo_ayomide.html#education",
+    "href": "people/gras/oshinjo_ayomide.html#education",
+    "title": "Ayomide Oshinjo",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Oulu | Oulu, Finland PhD Student [Biochemistry and Molecular Medicine (Bioinformatics)], 2024–Current\nUniversity of Oulu | Oulu, Finland MSc in [Biochemistry (Molecular Medicine) with Bioinformatics minor] | 2022–2024\nNigerian University of Technology and Management | Lagos, Nigeria PgDip in [Technology, Entrepreneurship and Design] | 2022–2023\nBowen University | Osun, Nigeria BSc in [Human Physiology] | 2017–2020"
+  },
+  {
+    "objectID": "people/gras/vilma_pesola.html",
+    "href": "people/gras/vilma_pesola.html",
+    "title": "Vilma Pesola",
+    "section": "",
+    "text": "Home\n    People\n    Graduate Students\n    Vilma Pesola"
+  },
+  {
+    "objectID": "people/gras/vilma_pesola.html#biography",
+    "href": "people/gras/vilma_pesola.html#biography",
+    "title": "Vilma Pesola",
+    "section": "Biography",
+    "text": "Biography"
+  },
+  {
+    "objectID": "people/gras/vilma_pesola.html#research-interests",
+    "href": "people/gras/vilma_pesola.html#research-interests",
+    "title": "Vilma Pesola",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nBioinformatics\nCancer Research"
+  },
+  {
+    "objectID": "people/gras/vilma_pesola.html#education",
+    "href": "people/gras/vilma_pesola.html#education",
+    "title": "Vilma Pesola",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Oulu | Oulu, Finland PhD Student [Biochemistry and Molecular Medicine], 2021–Current"
+  },
+  {
+    "objectID": "people/staff/petrov_petar.html",
+    "href": "people/staff/petrov_petar.html",
+    "title": "Petar Petrov, PhD",
+    "section": "",
+    "text": "Home\n    People\n    Graduate Students\n    Petar Petrov, PhD"
+  },
+  {
+    "objectID": "people/staff/petrov_petar.html#biography",
+    "href": "people/staff/petrov_petar.html#biography",
+    "title": "Petar Petrov, PhD",
+    "section": "Biography",
+    "text": "Biography\nEvolution superstar"
+  },
+  {
+    "objectID": "people/staff/petrov_petar.html#research-interests",
+    "href": "people/staff/petrov_petar.html#research-interests",
+    "title": "Petar Petrov, PhD",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nEvolution\nBioinformatics\nImmunology"
+  },
+  {
+    "objectID": "people/staff/petrov_petar.html#education",
+    "href": "people/staff/petrov_petar.html#education",
+    "title": "Petar Petrov, PhD",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Oulu | Oulu, Finland PhD (Immunology and Cell Biology), 2015\nUniversity of Oulu | Oulu, Finland MSc (Biochemistry and Molecular Biology), 2008\nUniversity of Perugia | Perugia, Italy BSc (Biotechnology), 2008"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Izzi Lab",
+    "section": "",
+    "text": "Home\n    People"
+  },
+  {
+    "objectID": "people.html#principal-investigator",
+    "href": "people.html#principal-investigator",
+    "title": "Izzi Lab",
+    "section": "Principal Investigator",
+    "text": "Principal Investigator\n\n\n\n\n\n\n\n\n\n\nValerio Izzi, PhD\n\n\nPrincipal Investigator\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#research-staff",
+    "href": "people.html#research-staff",
+    "title": "Izzi Lab",
+    "section": "Research Staff",
+    "text": "Research Staff\n\n\n\n\n\n\n\n\n\n\nPetar Petrov, PhD\n\n\nPostdoctoral Researcher\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#graduate-students",
+    "href": "people.html#graduate-students",
+    "title": "Izzi Lab",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n\n\n\n\n\n\n\n\nAnnalena Dittmann\n\n\nDoctoral Researcher\n\n\n\n\n\n\n\n\n\n\n\n\nRijuta Lamba\n\n\nDoctoral Researcher\n\n\n\n\n\n\n\n\n\n\n\n\nIida Olikainen\n\n\nDoctoral Researcher\n\n\n\n\n\n\n\n\n\n\n\n\nAyomide Oshinjo\n\n\nDoctoral Researcher\n\n\n\n\n\n\n\n\n\n\n\n\nVilma Pesola\n\n\nDoctoral Researcher\n\n\n\n\n\n\n\n\n\n\n\n\nJiahui Wu\n\n\nDoctoral Researcher\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome2025/index.html",
+    "href": "posts/welcome2025/index.html",
+    "title": "Welcome to the Izzi Lab Website",
+    "section": "",
+    "text": "We are excited to launch our new lab website! The Izzi Lab focuses on bioinformatics and data analysis, with a particular emphasis on understanding cancer through the lens of systems biology."
+  },
+  {
+    "objectID": "posts/welcome2025/index.html#our-mission",
+    "href": "posts/welcome2025/index.html#our-mission",
+    "title": "Welcome to the Izzi Lab Website",
+    "section": "Our Mission",
+    "text": "Our Mission\nOur group develops computational methods to study molecular networks in cancer, performing integrative analyses of the tumor microenvironment with special attention to the extracellular matrix."
+  },
+  {
+    "objectID": "posts/welcome2025/index.html#what-youll-find-here",
+    "href": "posts/welcome2025/index.html#what-youll-find-here",
+    "title": "Welcome to the Izzi Lab Website",
+    "section": "What You’ll Find Here",
+    "text": "What You’ll Find Here\n\nResearch: Learn about our current projects and methodological approaches\nPublications: Access our latest papers and preprints\nResources: Find computational tools and datasets we’ve developed\nOpportunities: Discover open positions for students and postdocs\nNews: Stay updated on lab activities, publications, and achievements"
+  },
+  {
+    "objectID": "posts/welcome2025/index.html#join-us",
+    "href": "posts/welcome2025/index.html#join-us",
+    "title": "Welcome to the Izzi Lab Website",
+    "section": "Join Us",
+    "text": "Join Us\nWe’re always looking for motivated students and researchers interested in computational biology. If you’re passionate about using data science to understand cancer biology, check out our opportunities page or contact us directly.\nWelcome to our digital home!"
+  },
+  {
+    "objectID": "publications/articles/cassani2024.html",
+    "href": "publications/articles/cassani2024.html",
+    "title": "TGF-β induces matrisome pathological alterations and EMT in patient-derived prostate cancer tumoroids",
+    "section": "",
+    "text": "Using patient-derived prostate cancer tumoroids, we demonstrate how TGF-β signaling drives pathological matrisome alterations and epithelial-mesenchymal transition (EMT). This study provides insights into tumor microenvironment remodeling in prostate cancer progression."
+  },
+  {
+    "objectID": "publications/articles/cassani2024.html#abstract",
+    "href": "publications/articles/cassani2024.html#abstract",
+    "title": "TGF-β induces matrisome pathological alterations and EMT in patient-derived prostate cancer tumoroids",
+    "section": "",
+    "text": "Using patient-derived prostate cancer tumoroids, we demonstrate how TGF-β signaling drives pathological matrisome alterations and epithelial-mesenchymal transition (EMT). This study provides insights into tumor microenvironment remodeling in prostate cancer progression."
+  },
+  {
+    "objectID": "publications/articles/cassani2024.html#key-findings",
+    "href": "publications/articles/cassani2024.html#key-findings",
+    "title": "TGF-β induces matrisome pathological alterations and EMT in patient-derived prostate cancer tumoroids",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nTGF-β induces comprehensive matrisome remodeling in 3D tumoroids\nIdentified key ECM proteins driving EMT in prostate cancer\nCharacterized temporal dynamics of ECM changes during tumor progression\nRevealed therapeutic targets within the tumor matrisome"
+  },
+  {
+    "objectID": "publications/articles/cassani2024.html#translational-relevance",
+    "href": "publications/articles/cassani2024.html#translational-relevance",
+    "title": "TGF-β induces matrisome pathological alterations and EMT in patient-derived prostate cancer tumoroids",
+    "section": "Translational Relevance",
+    "text": "Translational Relevance\nOur findings suggest that targeting TGF-β-induced matrisome alterations could represent a novel therapeutic strategy for aggressive prostate cancer."
+  },
+  {
+    "objectID": "publications/articles/cassani2024.html#citation",
+    "href": "publications/articles/cassani2024.html#citation",
+    "title": "TGF-β induces matrisome pathological alterations and EMT in patient-derived prostate cancer tumoroids",
+    "section": "Citation",
+    "text": "Citation\nMorazzo S, et al. (2024). TGF-β induces matrisome pathological alterations and EMT in patient-derived prostate cancer tumoroids. Matrix Biology, 125, 12-30."
+  },
+  {
+    "objectID": "publications/articles/gibson2021.html",
+    "href": "publications/articles/gibson2021.html",
+    "title": "Prevalence estimates of predicted pathogenic COL4A3–COL4A5 variants in a population sequencing database and their implications for Alport syndrome",
+    "section": "",
+    "text": "This population-based study estimates the prevalence of pathogenic variants in COL4A3-COL4A5 genes and their implications for Alport syndrome. We provide crucial epidemiological data for genetic counseling and screening strategies."
+  },
+  {
+    "objectID": "publications/articles/gibson2021.html#abstract",
+    "href": "publications/articles/gibson2021.html#abstract",
+    "title": "Prevalence estimates of predicted pathogenic COL4A3–COL4A5 variants in a population sequencing database and their implications for Alport syndrome",
+    "section": "",
+    "text": "This population-based study estimates the prevalence of pathogenic variants in COL4A3-COL4A5 genes and their implications for Alport syndrome. We provide crucial epidemiological data for genetic counseling and screening strategies."
+  },
+  {
+    "objectID": "publications/articles/gibson2021.html#key-findings",
+    "href": "publications/articles/gibson2021.html#key-findings",
+    "title": "Prevalence estimates of predicted pathogenic COL4A3–COL4A5 variants in a population sequencing database and their implications for Alport syndrome",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nIdentified higher than expected prevalence of pathogenic variants\nCharacterized variant distribution across populations\nRevealed implications for Alport syndrome diagnosis\nProvided refined prevalence estimates for genetic counseling"
+  },
+  {
+    "objectID": "publications/articles/gibson2021.html#clinical-impact",
+    "href": "publications/articles/gibson2021.html#clinical-impact",
+    "title": "Prevalence estimates of predicted pathogenic COL4A3–COL4A5 variants in a population sequencing database and their implications for Alport syndrome",
+    "section": "Clinical Impact",
+    "text": "Clinical Impact\nThese findings suggest that Alport syndrome and related disorders may be more common than previously recognized, with important implications for screening and early intervention."
+  },
+  {
+    "objectID": "publications/articles/gibson2021.html#citation",
+    "href": "publications/articles/gibson2021.html#citation",
+    "title": "Prevalence estimates of predicted pathogenic COL4A3–COL4A5 variants in a population sequencing database and their implications for Alport syndrome",
+    "section": "Citation",
+    "text": "Citation\nGibson J, et al. (2021). Prevalence estimates of predicted pathogenic COL4A3–COL4A5 variants in a population sequencing database and their implications for Alport syndrome. Journal of the American Society of Nephrology, 32(9), 2273-2290."
+  },
+  {
+    "objectID": "publications/articles/izzi2017.html",
+    "href": "publications/articles/izzi2017.html",
+    "title": "An extracellular matrix signature in leukemia precursor cells and acute myeloid leukemia",
+    "section": "",
+    "text": "The extracellular matrix (ECM) is often overlooked in hematological malignancies. We identified a specific ECM gene expression signature in leukemia precursor cells and acute myeloid leukemia (AML) with prognostic implications."
+  },
+  {
+    "objectID": "publications/articles/izzi2017.html#abstract",
+    "href": "publications/articles/izzi2017.html#abstract",
+    "title": "An extracellular matrix signature in leukemia precursor cells and acute myeloid leukemia",
+    "section": "",
+    "text": "The extracellular matrix (ECM) is often overlooked in hematological malignancies. We identified a specific ECM gene expression signature in leukemia precursor cells and acute myeloid leukemia (AML) with prognostic implications."
+  },
+  {
+    "objectID": "publications/articles/izzi2017.html#key-findings",
+    "href": "publications/articles/izzi2017.html#key-findings",
+    "title": "An extracellular matrix signature in leukemia precursor cells and acute myeloid leukemia",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nDiscovered distinct ECM expression patterns in AML patient samples\nIdentified ECM signature with favorable prognostic value\nPatients with higher ECM signature expression showed longer relapse-free survival\nValidated findings in independent AML cohorts"
+  },
+  {
+    "objectID": "publications/articles/izzi2017.html#clinical-significance",
+    "href": "publications/articles/izzi2017.html#clinical-significance",
+    "title": "An extracellular matrix signature in leukemia precursor cells and acute myeloid leukemia",
+    "section": "Clinical Significance",
+    "text": "Clinical Significance\nThis work demonstrates that ECM signatures can serve as prognostic biomarkers in AML, suggesting potential therapeutic targets in the leukemic microenvironment."
+  },
+  {
+    "objectID": "publications/articles/izzi2017.html#data-availability",
+    "href": "publications/articles/izzi2017.html#data-availability",
+    "title": "An extracellular matrix signature in leukemia precursor cells and acute myeloid leukemia",
+    "section": "Data Availability",
+    "text": "Data Availability\nExpression data and signatures are available in the supplementary materials and upon request."
+  },
+  {
+    "objectID": "publications/articles/izzi2017.html#citation",
+    "href": "publications/articles/izzi2017.html#citation",
+    "title": "An extracellular matrix signature in leukemia precursor cells and acute myeloid leukemia",
+    "section": "Citation",
+    "text": "Citation\nIzzi V, et al. (2017). An extracellular matrix signature in leukemia precursor cells and acute myeloid leukemia. Haematologica, 102(7), 1245-1255."
+  },
+  {
+    "objectID": "publications/articles/izzi2020b.html",
+    "href": "publications/articles/izzi2020b.html",
+    "title": "Exploring the roles of MACIT and multiplexin collagens in stem cells and cancer",
+    "section": "",
+    "text": "This review explores the emerging roles of MACIT (membrane-associated collagens with interrupted triple helices) and multiplexin collagens in stem cell biology and cancer. We discuss how these specialized collagens regulate cell fate decisions and tumor progression."
+  },
+  {
+    "objectID": "publications/articles/izzi2020b.html#abstract",
+    "href": "publications/articles/izzi2020b.html#abstract",
+    "title": "Exploring the roles of MACIT and multiplexin collagens in stem cells and cancer",
+    "section": "",
+    "text": "This review explores the emerging roles of MACIT (membrane-associated collagens with interrupted triple helices) and multiplexin collagens in stem cell biology and cancer. We discuss how these specialized collagens regulate cell fate decisions and tumor progression."
+  },
+  {
+    "objectID": "publications/articles/izzi2020b.html#key-topics",
+    "href": "publications/articles/izzi2020b.html#key-topics",
+    "title": "Exploring the roles of MACIT and multiplexin collagens in stem cells and cancer",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nStructure and function of MACIT and multiplexin collagens\nRoles in stem cell niche maintenance\nImpact on cancer stem cells and metastasis\nTherapeutic targeting opportunities"
+  },
+  {
+    "objectID": "publications/articles/izzi2020b.html#future-directions",
+    "href": "publications/articles/izzi2020b.html#future-directions",
+    "title": "Exploring the roles of MACIT and multiplexin collagens in stem cells and cancer",
+    "section": "Future Directions",
+    "text": "Future Directions\nUnderstanding MACIT and multiplexin collagen functions opens new avenues for regenerative medicine and cancer therapy development."
+  },
+  {
+    "objectID": "publications/articles/izzi2020b.html#citation",
+    "href": "publications/articles/izzi2020b.html#citation",
+    "title": "Exploring the roles of MACIT and multiplexin collagens in stem cells and cancer",
+    "section": "Citation",
+    "text": "Citation\nIzzi V, et al. (2020). Exploring the roles of MACIT and multiplexin collagens in stem cells and cancer. Seminars in Cancer Biology, 62, 134-148."
+  },
+  {
+    "objectID": "publications/articles/kaariainen2020.html",
+    "href": "publications/articles/kaariainen2020.html",
+    "title": "Machine learning identifies robust matrisome markers and regulatory mechanisms in cancer",
+    "section": "",
+    "text": "Using machine learning approaches, we identify robust matrisome markers and their regulatory mechanisms across cancer types. This computational framework reveals previously unrecognized ECM patterns associated with clinical outcomes."
+  },
+  {
+    "objectID": "publications/articles/kaariainen2020.html#abstract",
+    "href": "publications/articles/kaariainen2020.html#abstract",
+    "title": "Machine learning identifies robust matrisome markers and regulatory mechanisms in cancer",
+    "section": "",
+    "text": "Using machine learning approaches, we identify robust matrisome markers and their regulatory mechanisms across cancer types. This computational framework reveals previously unrecognized ECM patterns associated with clinical outcomes."
+  },
+  {
+    "objectID": "publications/articles/kaariainen2020.html#key-findings",
+    "href": "publications/articles/kaariainen2020.html#key-findings",
+    "title": "Machine learning identifies robust matrisome markers and regulatory mechanisms in cancer",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nDeveloped machine learning pipeline for matrisome analysis\nIdentified pan-cancer and cancer-specific ECM markers\nRevealed regulatory networks controlling matrisome expression\nValidated markers in independent patient cohorts"
+  },
+  {
+    "objectID": "publications/articles/kaariainen2020.html#computational-innovation",
+    "href": "publications/articles/kaariainen2020.html#computational-innovation",
+    "title": "Machine learning identifies robust matrisome markers and regulatory mechanisms in cancer",
+    "section": "Computational Innovation",
+    "text": "Computational Innovation\nOur machine learning framework provides a powerful tool for discovering clinically relevant matrisome patterns and understanding ECM regulation in cancer."
+  },
+  {
+    "objectID": "publications/articles/kaariainen2020.html#citation",
+    "href": "publications/articles/kaariainen2020.html#citation",
+    "title": "Machine learning identifies robust matrisome markers and regulatory mechanisms in cancer",
+    "section": "Citation",
+    "text": "Citation\nKääriäinen A, et al. (2020). Machine learning identifies robust matrisome markers and regulatory mechanisms in cancer. International Journal of Molecular Sciences, 21(22), 8837."
+  },
+  {
+    "objectID": "publications/articles/kontio2022.html",
+    "href": "publications/articles/kontio2022.html",
+    "title": "Analysis of extracellular matrix network dynamics in cancer using the MatriNet database",
+    "section": "",
+    "text": "MatriNet is a comprehensive database designed to capture and analyze extracellular matrix network dynamics in cancer. This resource provides researchers with tools to explore ECM remodeling patterns across multiple cancer types and stages."
+  },
+  {
+    "objectID": "publications/articles/kontio2022.html#abstract",
+    "href": "publications/articles/kontio2022.html#abstract",
+    "title": "Analysis of extracellular matrix network dynamics in cancer using the MatriNet database",
+    "section": "",
+    "text": "MatriNet is a comprehensive database designed to capture and analyze extracellular matrix network dynamics in cancer. This resource provides researchers with tools to explore ECM remodeling patterns across multiple cancer types and stages."
+  },
+  {
+    "objectID": "publications/articles/kontio2022.html#key-features",
+    "href": "publications/articles/kontio2022.html#key-features",
+    "title": "Analysis of extracellular matrix network dynamics in cancer using the MatriNet database",
+    "section": "Key Features",
+    "text": "Key Features\n\nComprehensive ECM interaction network data\nCancer type-specific ECM signatures\nTemporal dynamics of ECM remodeling\nIntegration with clinical outcome data"
+  },
+  {
+    "objectID": "publications/articles/kontio2022.html#database-access",
+    "href": "publications/articles/kontio2022.html#database-access",
+    "title": "Analysis of extracellular matrix network dynamics in cancer using the MatriNet database",
+    "section": "Database Access",
+    "text": "Database Access\nMatriNet is freely available for academic research at [database URL]. The resource includes tutorials and analysis tools for exploring ECM networks in cancer."
+  },
+  {
+    "objectID": "publications/articles/kontio2022.html#citation",
+    "href": "publications/articles/kontio2022.html#citation",
+    "title": "Analysis of extracellular matrix network dynamics in cancer using the MatriNet database",
+    "section": "Citation",
+    "text": "Citation\nKontio J, et al. (2022). Analysis of extracellular matrix network dynamics in cancer using the MatriNet database. Matrix Biology, 110, 141-150."
+  },
+  {
+    "objectID": "publications/articles/maatta2021.html",
+    "href": "publications/articles/maatta2021.html",
+    "title": "Genetic Ablation of Transmembrane Prolyl 4-Hydroxylase Reduces Atherosclerotic Plaques in Mice",
+    "section": "",
+    "text": "This study demonstrates that genetic ablation of transmembrane prolyl 4-hydroxylase (P4H-TM) reduces atherosclerotic plaque formation in mice. We reveal a novel role for P4H-TM in vascular disease pathogenesis."
+  },
+  {
+    "objectID": "publications/articles/maatta2021.html#abstract",
+    "href": "publications/articles/maatta2021.html#abstract",
+    "title": "Genetic Ablation of Transmembrane Prolyl 4-Hydroxylase Reduces Atherosclerotic Plaques in Mice",
+    "section": "",
+    "text": "This study demonstrates that genetic ablation of transmembrane prolyl 4-hydroxylase (P4H-TM) reduces atherosclerotic plaque formation in mice. We reveal a novel role for P4H-TM in vascular disease pathogenesis."
+  },
+  {
+    "objectID": "publications/articles/maatta2021.html#key-findings",
+    "href": "publications/articles/maatta2021.html#key-findings",
+    "title": "Genetic Ablation of Transmembrane Prolyl 4-Hydroxylase Reduces Atherosclerotic Plaques in Mice",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nP4H-TM deletion reduces atherosclerotic plaque burden\nAltered ECM composition in vessel walls of knockout mice\nIdentified P4H-TM-dependent inflammatory pathways\nDemonstrated therapeutic potential of P4H-TM inhibition"
+  },
+  {
+    "objectID": "publications/articles/maatta2021.html#therapeutic-implications",
+    "href": "publications/articles/maatta2021.html#therapeutic-implications",
+    "title": "Genetic Ablation of Transmembrane Prolyl 4-Hydroxylase Reduces Atherosclerotic Plaques in Mice",
+    "section": "Therapeutic Implications",
+    "text": "Therapeutic Implications\nOur findings suggest that targeting P4H-TM could represent a novel therapeutic strategy for atherosclerosis and related cardiovascular diseases."
+  },
+  {
+    "objectID": "publications/articles/maatta2021.html#citation",
+    "href": "publications/articles/maatta2021.html#citation",
+    "title": "Genetic Ablation of Transmembrane Prolyl 4-Hydroxylase Reduces Atherosclerotic Plaques in Mice",
+    "section": "Citation",
+    "text": "Citation\nMäättä J, et al. (2021). Genetic Ablation of Transmembrane Prolyl 4-Hydroxylase Reduces Atherosclerotic Plaques in Mice. Arteriosclerosis, Thrombosis, and Vascular Biology, 41(7), 2128-2140."
+  },
+  {
+    "objectID": "publications/articles/nielsen2023.html",
+    "href": "publications/articles/nielsen2023.html",
+    "title": "Fibroblast-derived matrix models desmoplastic properties and forms a prognostic signature in cancer progression",
+    "section": "",
+    "text": "We developed fibroblast-derived matrix models that recapitulate desmoplastic properties of tumor stroma. Analysis of these matrices revealed a distinct ECM signature that serves as a prognostic indicator for cancer progression."
+  },
+  {
+    "objectID": "publications/articles/nielsen2023.html#abstract",
+    "href": "publications/articles/nielsen2023.html#abstract",
+    "title": "Fibroblast-derived matrix models desmoplastic properties and forms a prognostic signature in cancer progression",
+    "section": "",
+    "text": "We developed fibroblast-derived matrix models that recapitulate desmoplastic properties of tumor stroma. Analysis of these matrices revealed a distinct ECM signature that serves as a prognostic indicator for cancer progression."
+  },
+  {
+    "objectID": "publications/articles/nielsen2023.html#key-findings",
+    "href": "publications/articles/nielsen2023.html#key-findings",
+    "title": "Fibroblast-derived matrix models desmoplastic properties and forms a prognostic signature in cancer progression",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nCreated physiologically relevant fibroblast-derived matrix models\nIdentified ECM signature predictive of patient outcomes\nCharacterized mechanical and biochemical properties of desmoplastic matrices\nDemonstrated impact on tumor cell behavior and drug response"
+  },
+  {
+    "objectID": "publications/articles/nielsen2023.html#prognostic-value",
+    "href": "publications/articles/nielsen2023.html#prognostic-value",
+    "title": "Fibroblast-derived matrix models desmoplastic properties and forms a prognostic signature in cancer progression",
+    "section": "Prognostic Value",
+    "text": "Prognostic Value\nThe identified ECM signature provides a robust prognostic tool for stratifying cancer patients and predicting treatment response."
+  },
+  {
+    "objectID": "publications/articles/nielsen2023.html#citation",
+    "href": "publications/articles/nielsen2023.html#citation",
+    "title": "Fibroblast-derived matrix models desmoplastic properties and forms a prognostic signature in cancer progression",
+    "section": "Citation",
+    "text": "Citation\nNielsen SR, et al. (2023). Fibroblast-derived matrix models desmoplastic properties and forms a prognostic signature in cancer progression. Frontiers in Immunology, 14, 1154528."
+  },
+  {
+    "objectID": "publications/articles/petrov2023.html",
+    "href": "publications/articles/petrov2023.html",
+    "title": "MatrisomeAnalyzeR – a suite of tools to annotate and quantify ECM molecules in big datasets across organisms",
+    "section": "",
+    "text": "The extracellular matrix (ECM) plays crucial roles in development, homeostasis, and disease. We present MatrisomeAnalyzeR, a comprehensive suite of tools for annotating and quantifying ECM molecules across different organisms and large-scale datasets."
+  },
+  {
+    "objectID": "publications/articles/petrov2023.html#abstract",
+    "href": "publications/articles/petrov2023.html#abstract",
+    "title": "MatrisomeAnalyzeR – a suite of tools to annotate and quantify ECM molecules in big datasets across organisms",
+    "section": "",
+    "text": "The extracellular matrix (ECM) plays crucial roles in development, homeostasis, and disease. We present MatrisomeAnalyzeR, a comprehensive suite of tools for annotating and quantifying ECM molecules across different organisms and large-scale datasets."
+  },
+  {
+    "objectID": "publications/articles/petrov2023.html#software-features",
+    "href": "publications/articles/petrov2023.html#software-features",
+    "title": "MatrisomeAnalyzeR – a suite of tools to annotate and quantify ECM molecules in big datasets across organisms",
+    "section": "Software Features",
+    "text": "Software Features\n\nAnnotation: Automatic identification of matrisome components\nQuantification: Statistical analysis of ECM abundance\nVisualization: Novel chart types including ‘matrirings’, ‘matristars’, and ‘matriflows’\nCross-species: Support for human, mouse, and other model organisms"
+  },
+  {
+    "objectID": "publications/articles/petrov2023.html#availability",
+    "href": "publications/articles/petrov2023.html#availability",
+    "title": "MatrisomeAnalyzeR – a suite of tools to annotate and quantify ECM molecules in big datasets across organisms",
+    "section": "Availability",
+    "text": "Availability\nMatrisomeAnalyzeR is freely available as an R package with accompanying web interface."
+  },
+  {
+    "objectID": "publications/articles/petrov2023.html#citation",
+    "href": "publications/articles/petrov2023.html#citation",
+    "title": "MatrisomeAnalyzeR – a suite of tools to annotate and quantify ECM molecules in big datasets across organisms",
+    "section": "Citation",
+    "text": "Citation\nPetrov PB, Considine JM, Izzi V, Naba A. (2023). MatrisomeAnalyzeR – a suite of tools to annotate and quantify ECM molecules in big datasets across organisms. Journal of Cell Science, 136(12), jcs260373."
+  },
+  {
+    "objectID": "publications/articles/rekad2022.html",
+    "href": "publications/articles/rekad2022.html",
+    "title": "The alternative matrisome: alternative splicing of ECM proteins in development, homeostasis and tumor progression",
+    "section": "",
+    "text": "This review explores the “alternative matrisome” - the collection of ECM protein isoforms generated through alternative splicing. We discuss how alternative splicing contributes to ECM diversity and its implications for tissue homeostasis and disease."
+  },
+  {
+    "objectID": "publications/articles/rekad2022.html#abstract",
+    "href": "publications/articles/rekad2022.html#abstract",
+    "title": "The alternative matrisome: alternative splicing of ECM proteins in development, homeostasis and tumor progression",
+    "section": "",
+    "text": "This review explores the “alternative matrisome” - the collection of ECM protein isoforms generated through alternative splicing. We discuss how alternative splicing contributes to ECM diversity and its implications for tissue homeostasis and disease."
+  },
+  {
+    "objectID": "publications/articles/rekad2022.html#key-topics",
+    "href": "publications/articles/rekad2022.html#key-topics",
+    "title": "The alternative matrisome: alternative splicing of ECM proteins in development, homeostasis and tumor progression",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nMechanisms of ECM protein alternative splicing\nTissue-specific and developmental regulation\nRole in cancer progression and metastasis\nTherapeutic targeting of splice variants"
+  },
+  {
+    "objectID": "publications/articles/rekad2022.html#biological-significance",
+    "href": "publications/articles/rekad2022.html#biological-significance",
+    "title": "The alternative matrisome: alternative splicing of ECM proteins in development, homeostasis and tumor progression",
+    "section": "Biological Significance",
+    "text": "Biological Significance\nAlternative splicing dramatically expands ECM functional diversity, providing tissue-specific properties and disease-associated alterations that represent novel therapeutic targets."
+  },
+  {
+    "objectID": "publications/articles/rekad2022.html#citation",
+    "href": "publications/articles/rekad2022.html#citation",
+    "title": "The alternative matrisome: alternative splicing of ECM proteins in development, homeostasis and tumor progression",
+    "section": "Citation",
+    "text": "Citation\nRekad Z, Izzi V, Lamba R, Ciais D, Van Obberghen-Schilling E. (2022). The alternative matrisome: alternative splicing of ECM proteins in development, homeostasis and tumor progression. Matrix Biology, 111, 26-52."
+  },
+  {
+    "objectID": "publications/articles/salo2024.html",
+    "href": "publications/articles/salo2024.html",
+    "title": "Collagen prolyl 4-hydroxylase isoenzymes I and II have sequence specificity towards different X-Pro-Gly triplets",
+    "section": "",
+    "text": "This study reveals distinct sequence specificities of collagen prolyl 4-hydroxylase isoenzymes I and II towards X-Pro-Gly triplets. These findings provide new insights into collagen post-translational modification and its regulation."
+  },
+  {
+    "objectID": "publications/articles/salo2024.html#abstract",
+    "href": "publications/articles/salo2024.html#abstract",
+    "title": "Collagen prolyl 4-hydroxylase isoenzymes I and II have sequence specificity towards different X-Pro-Gly triplets",
+    "section": "",
+    "text": "This study reveals distinct sequence specificities of collagen prolyl 4-hydroxylase isoenzymes I and II towards X-Pro-Gly triplets. These findings provide new insights into collagen post-translational modification and its regulation."
+  },
+  {
+    "objectID": "publications/articles/salo2024.html#key-findings",
+    "href": "publications/articles/salo2024.html#key-findings",
+    "title": "Collagen prolyl 4-hydroxylase isoenzymes I and II have sequence specificity towards different X-Pro-Gly triplets",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nDemonstrated differential substrate preferences between P4H isoenzymes\nIdentified specific X-Pro-Gly sequences targeted by each isoenzyme\nRevealed impact on collagen stability and function\nCharacterized enzymatic kinetics and structural basis for specificity"
+  },
+  {
+    "objectID": "publications/articles/salo2024.html#biochemical-significance",
+    "href": "publications/articles/salo2024.html#biochemical-significance",
+    "title": "Collagen prolyl 4-hydroxylase isoenzymes I and II have sequence specificity towards different X-Pro-Gly triplets",
+    "section": "Biochemical Significance",
+    "text": "Biochemical Significance\nUnderstanding isoenzyme-specific hydroxylation patterns is crucial for comprehending collagen maturation, stability, and tissue-specific ECM properties."
+  },
+  {
+    "objectID": "publications/articles/salo2024.html#citation",
+    "href": "publications/articles/salo2024.html#citation",
+    "title": "Collagen prolyl 4-hydroxylase isoenzymes I and II have sequence specificity towards different X-Pro-Gly triplets",
+    "section": "Citation",
+    "text": "Citation\nSalo AM, et al. (2024). Collagen prolyl 4-hydroxylase isoenzymes I and II have sequence specificity towards different X-Pro-Gly triplets. Matrix Biology, 125, 73-87."
+  },
+  {
+    "objectID": "publications/articles/skarp2024.html",
+    "href": "publications/articles/skarp2024.html",
+    "title": "Novel genetic variants associated with primary myocardial fibrosis in sudden cardiac death victims",
+    "section": "",
+    "text": "This study identifies novel genetic variants associated with primary myocardial fibrosis in victims of sudden cardiac death. Through comprehensive genetic analysis, we reveal key ECM-related genetic factors contributing to cardiac fibrosis and sudden death risk."
+  },
+  {
+    "objectID": "publications/articles/skarp2024.html#abstract",
+    "href": "publications/articles/skarp2024.html#abstract",
+    "title": "Novel genetic variants associated with primary myocardial fibrosis in sudden cardiac death victims",
+    "section": "",
+    "text": "This study identifies novel genetic variants associated with primary myocardial fibrosis in victims of sudden cardiac death. Through comprehensive genetic analysis, we reveal key ECM-related genetic factors contributing to cardiac fibrosis and sudden death risk."
+  },
+  {
+    "objectID": "publications/articles/skarp2024.html#key-findings",
+    "href": "publications/articles/skarp2024.html#key-findings",
+    "title": "Novel genetic variants associated with primary myocardial fibrosis in sudden cardiac death victims",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nIdentified multiple novel genetic variants linked to myocardial fibrosis\nDiscovered associations between ECM gene mutations and sudden cardiac death\nCharacterized fibrotic patterns in genetically stratified patient cohorts\nProvided insights for genetic screening and risk assessment"
+  },
+  {
+    "objectID": "publications/articles/skarp2024.html#clinical-implications",
+    "href": "publications/articles/skarp2024.html#clinical-implications",
+    "title": "Novel genetic variants associated with primary myocardial fibrosis in sudden cardiac death victims",
+    "section": "Clinical Implications",
+    "text": "Clinical Implications\nThese findings have important implications for genetic screening programs and risk stratification in individuals with family history of sudden cardiac death."
+  },
+  {
+    "objectID": "publications/articles/skarp2024.html#citation",
+    "href": "publications/articles/skarp2024.html#citation",
+    "title": "Novel genetic variants associated with primary myocardial fibrosis in sudden cardiac death victims",
+    "section": "Citation",
+    "text": "Citation\nSkarp S, et al. (2024). Novel genetic variants associated with primary myocardial fibrosis in sudden cardiac death victims. Journal of Cardiovascular Translational Research, 17(6), 1229-1239."
+  },
+  {
+    "objectID": "publications/articles/yilmaz2022.html",
+    "href": "publications/articles/yilmaz2022.html",
+    "title": "Advances on the roles of tenascin-C in cancer",
+    "section": "",
+    "text": "This comprehensive review examines the multifaceted roles of tenascin-C in cancer progression. We discuss recent advances in understanding tenascin-C functions in tumor microenvironment remodeling, metastasis, and therapeutic resistance."
+  },
+  {
+    "objectID": "publications/articles/yilmaz2022.html#abstract",
+    "href": "publications/articles/yilmaz2022.html#abstract",
+    "title": "Advances on the roles of tenascin-C in cancer",
+    "section": "",
+    "text": "This comprehensive review examines the multifaceted roles of tenascin-C in cancer progression. We discuss recent advances in understanding tenascin-C functions in tumor microenvironment remodeling, metastasis, and therapeutic resistance."
+  },
+  {
+    "objectID": "publications/articles/yilmaz2022.html#key-topics",
+    "href": "publications/articles/yilmaz2022.html#key-topics",
+    "title": "Advances on the roles of tenascin-C in cancer",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nTenascin-C structure and isoform diversity\nRoles in tumor angiogenesis and immune evasion\nImpact on cancer stem cell niches\nTherapeutic targeting strategies"
+  },
+  {
+    "objectID": "publications/articles/yilmaz2022.html#clinical-relevance",
+    "href": "publications/articles/yilmaz2022.html#clinical-relevance",
+    "title": "Advances on the roles of tenascin-C in cancer",
+    "section": "Clinical Relevance",
+    "text": "Clinical Relevance\nTenascin-C represents a promising therapeutic target and biomarker for various cancer types, with multiple targeting strategies currently under development."
+  },
+  {
+    "objectID": "publications/articles/yilmaz2022.html#citation",
+    "href": "publications/articles/yilmaz2022.html#citation",
+    "title": "Advances on the roles of tenascin-C in cancer",
+    "section": "Citation",
+    "text": "Citation\nYilmaz A, et al. (2022). Advances on the roles of tenascin-C in cancer. Journal of Cell Science, 135(18), jcs260244."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Izzi Lab",
+    "section": "",
+    "text": "Home\n    Research"
+  },
+  {
+    "objectID": "research.html#decoding-the-tumor-ecm-dialogue",
+    "href": "research.html#decoding-the-tumor-ecm-dialogue",
+    "title": "Izzi Lab",
+    "section": "Decoding the Tumor-ECM Dialogue",
+    "text": "Decoding the Tumor-ECM Dialogue\nAt the Izzi Lab, our central mission is to understand how tumors communicate with their surrounding environment, the extracellular matrix (ECM). This dynamic dialogue is critical for cancer growth, metastasis, and treatment resistance. We build and apply cutting-edge computational models to listen in on this conversation, aiming to identify novel therapeutic strategies that can disrupt it.\nOur research is built on three interconnected pillars:\n\n1. Mapping the Tumor-ECM Ecosystem\nBefore we can intervene, we must first create a detailed map of the territory. We use multi-omics data (genomics, transcriptomics, proteomics) to build comprehensive models of the tumor microenvironment. Our goal is to uncover the fundamental rules governing how the matrisome—the full collection of ECM proteins—is constructed and remodeled during cancer progression.\n\nMatrisome Profiling: Characterizing the unique ECM signatures of different cancer types and subtypes.\nCell-Matrix Communication: Identifying the signaling pathways that cells use to sense and respond to their ECM.\nSpatial & Single-Cell Analysis: Understanding how tumor-ECM interactions vary in space and across individual cells to drive heterogeneity.\n\n\n\n2. Building Novel Computational & AI Tools\nStandard bioinformatics tools are often insufficient to capture the complexity of the ECM. A core part of our mission is to develop the next generation of software for the research community. We integrate network biology, statistical modeling, and machine learning to create robust, open-source tools that turn raw data into biological insight.\n\nPredictive Modeling: Using AI and deep learning to predict patient outcomes or treatment responses based on ECM signatures.\nAlgorithm Development: Designing novel graph-based algorithms inspired by complex systems to find key vulnerabilities in the tumor-ECM network.\nFlagship Software: Developing and maintaining user-friendly R packages like MatrisomeAnalyzeR and MatriCom for widespread use.\n\n\n\n3. Driving Translational Impact & Open Science\nOur ultimate goal is to improve patient outcomes. We bridge the gap between computational discovery and clinical application by working closely with oncologists and experimental biologists. By identifying network-based biomarkers and potential drug targets, we aim to contribute directly to the future of cancer therapy.\n\nTherapeutic Target Identification: Pinpointing specific ECM components or regulators that are critical for tumor survival.\nBiomarker Discovery: Finding matrisome signatures that can predict metastasis or drug resistance.\nOpen & Reproducible Science: We are committed to open science, ensuring our code, data, and pipelines are publicly available to accelerate research for everyone."
+  }
+]

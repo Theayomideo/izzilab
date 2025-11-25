@@ -1,0 +1,53 @@
+---
+title: "Jiahui Wu"
+sortby: "Wu, Jiahui"
+subtitle: "Doctoral Researcher"
+image: ../../img/jiahui_wu.jpg
+toc: false
+started: "Winter 2025"
+ended: "Current"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: mailto:jiahui.wu@oulu.fi
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=FfhI32UAAAAJ&hl=en&oi=sra
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Graduate Students</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+Remote
+
+
+## Research Interests
+- Machine Learning
+- Graph Neural Networks
+- Bioinformatics
+
+## Education
+- [University of Oulu]{.fw-bold} | Oulu, Finland<br />
+  PhD Student [Biochemistry and Molecular Medicine (Bioinformatics)], 2025–Current
+
+- [The Beĳing University of Technology]{.fw-bold} | Beijing, Finland<br />
+  MSc in [Software Engineering] | 2021–2024
+  
+- [The North University of China]{.fw-bold} | Taiyuan, China<br />
+  BSc in [Software Engineering] | 2016–2020
+

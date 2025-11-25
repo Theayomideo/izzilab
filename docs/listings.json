@@ -1,0 +1,52 @@
+[
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/articles/lamba2025.html",
+      "/publications/articles/petrov2025.html",
+      "/publications/articles/savolainen2024.html",
+      "/publications/articles/rinta-jaskari2024.html",
+      "/publications/articles/salo2024.html",
+      "/publications/articles/skarp2024.html",
+      "/publications/articles/cassani2024.html",
+      "/publications/articles/nielsen2023.html",
+      "/publications/articles/petrov2023.html",
+      "/publications/articles/devarajan2023.html",
+      "/publications/articles/yilmaz2022.html",
+      "/publications/articles/izzi2022.html",
+      "/publications/articles/kontio2022.html",
+      "/publications/articles/tolonen2022.html",
+      "/publications/articles/kemppainen2022.html",
+      "/publications/articles/rekad2022.html",
+      "/publications/articles/martinez-nieto2022.html",
+      "/publications/articles/maatta2021.html",
+      "/publications/articles/gibson2021.html",
+      "/publications/articles/holstein2021.html",
+      "/publications/articles/benvenuto2021.html",
+      "/publications/articles/izzi2020b.html",
+      "/publications/articles/petaisto2020.html",
+      "/publications/articles/kaariainen2020.html",
+      "/publications/articles/izzi2020.html",
+      "/publications/articles/izzi2017.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/posts/welcome2025/index.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/staff/izzi_valerio.html",
+      "/people/staff/petrov_petar.html",
+      "/people/gras/annalena_dittmann.html",
+      "/people/gras/rijuta_lamba.html",
+      "/people/gras/iida_olikainen.html",
+      "/people/gras/oshinjo_ayomide.html",
+      "/people/gras/vilma_pesola.html",
+      "/people/gras/jiahui_wui.html"
+    ]
+  }
+]

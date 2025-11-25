@@ -1,0 +1,27 @@
+---
+title: "The burden of post-translational modification (PTM)—disrupting mutations in the tumor matrisome"
+author: "Holstein E, Dittmann A, Kääriäinen A, Pesola V, Koivunen J, Pihlajaniemi T, Naba A, Izzi V"
+year: 2021
+publication: "Cancers"
+doi: "10.3390/cancers13051081"
+categories: [cancer, ECM, post-translational modification, mutations]
+---
+
+## Abstract
+
+This study systematically analyzes post-translational modification-disrupting mutations in the tumor matrisome across cancer types. We reveal how PTM alterations in ECM proteins contribute to cancer progression.
+
+## Key Findings
+
+- Identified recurrent PTM-disrupting mutations in matrisome genes
+- Characterized functional consequences of PTM disruption
+- Revealed cancer type-specific PTM mutation patterns
+- Demonstrated impact on ECM structure and tumor behavior
+
+## Significance
+
+PTM-disrupting mutations represent an underappreciated mechanism of ECM dysfunction in cancer, with implications for biomarker development and therapeutic targeting.
+
+## Citation
+
+Holstein E, et al. (2021). The burden of post-translational modification (PTM)—disrupting mutations in the tumor matrisome. *Cancers*, 13(5), 1081.

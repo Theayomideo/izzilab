@@ -1,0 +1,34 @@
+---
+title: "New Grant Award: Computational Modeling of Tumor-ECM Interactions"
+author: "Izzi Lab"
+date: "2024-12-10"
+categories: [funding, research]
+draft: true
+---
+
+<!--
+We are thrilled to announce that the Izzi Lab has received a new research grant to study tumor-extracellular matrix interactions using advanced computational methods.
+
+## Project Overview
+
+This 3-year project will focus on:
+
+1. **Single-cell analysis** of tumor microenvironment samples
+2. **Machine learning models** to predict ECM remodeling patterns
+3. **Network analysis** of cell-matrix communication pathways
+4. **Development of open-source tools** for the research community
+
+## Impact
+
+This funding will support:
+- Two PhD student positions
+- Development of new computational pipelines
+- Collaboration with clinical partners
+- Open-access publication of all research outputs
+
+## Acknowledgments
+
+We thank the funding agency for their support and our collaborators who contributed to the grant proposal. This project represents an exciting opportunity to advance our understanding of cancer biology through computational approaches.
+
+Stay tuned for updates as the project progresses!
+-->

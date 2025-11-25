@@ -1,0 +1,27 @@
+---
+title: "Novel genetic variants associated with primary myocardial fibrosis in sudden cardiac death victims"
+author: "Skarp S, Doedens A, Holmström L, Izzi V, Saarimäki S, Sliz E, Kettunen J, Pakanen L, Kerkelä R, Pylkäs K, et al."
+year: 2024
+publication: "Journal of Cardiovascular Translational Research"
+doi: "10.1007/s12265-024-10527-5"
+categories: [genetics, cardiovascular, ECM]
+---
+
+## Abstract
+
+This study identifies novel genetic variants associated with primary myocardial fibrosis in victims of sudden cardiac death. Through comprehensive genetic analysis, we reveal key ECM-related genetic factors contributing to cardiac fibrosis and sudden death risk.
+
+## Key Findings
+
+- Identified multiple novel genetic variants linked to myocardial fibrosis
+- Discovered associations between ECM gene mutations and sudden cardiac death
+- Characterized fibrotic patterns in genetically stratified patient cohorts
+- Provided insights for genetic screening and risk assessment
+
+## Clinical Implications
+
+These findings have important implications for genetic screening programs and risk stratification in individuals with family history of sudden cardiac death.
+
+## Citation
+
+Skarp S, et al. (2024). Novel genetic variants associated with primary myocardial fibrosis in sudden cardiac death victims. *Journal of Cardiovascular Translational Research*, 17(6), 1229-1239.

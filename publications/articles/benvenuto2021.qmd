@@ -1,0 +1,27 @@
+---
+title: "Tumor antigens heterogeneity and immune response-targeting neoantigens in breast cancer"
+author: "Benvenuto M, Focaccetti C, Izzi V, Masuelli L, Modesti A, Bei R"
+year: 2021
+publication: "Seminars in Cancer Biology"
+doi: "10.1016/j.semcancer.2019.10.023"
+categories: [cancer, immunotherapy, breast cancer, review]
+---
+
+## Abstract
+
+This review examines tumor antigen heterogeneity in breast cancer and strategies for targeting neoantigens. We discuss the role of the ECM in modulating immune responses and implications for immunotherapy development.
+
+## Key Topics
+
+- Neoantigen generation and presentation in breast cancer
+- ECM influence on tumor-immune interactions
+- Strategies for neoantigen-based immunotherapy
+- Overcoming immune evasion mechanisms
+
+## Therapeutic Perspectives
+
+Understanding the interplay between tumor antigens, ECM, and immune responses is crucial for developing effective breast cancer immunotherapies.
+
+## Citation
+
+Benvenuto M, Focaccetti C, Izzi V, Masuelli L, Modesti A, Bei R. (2021). Tumor antigens heterogeneity and immune response-targeting neoantigens in breast cancer. *Seminars in Cancer Biology*, 72, 65-75.

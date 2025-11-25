@@ -1,0 +1,27 @@
+---
+title: "Genetic Ablation of Transmembrane Prolyl 4-Hydroxylase Reduces Atherosclerotic Plaques in Mice"
+author: "Määttä J, Serpi R, Hörkkö S, Izzi V, Myllyharju J, Dimova EY, Koivunen P"
+year: 2021
+publication: "Arteriosclerosis, Thrombosis, and Vascular Biology"
+doi: "10.1161/ATVBAHA.121.316034"
+categories: [cardiovascular, ECM, atherosclerosis, hydroxylation]
+---
+
+## Abstract
+
+This study demonstrates that genetic ablation of transmembrane prolyl 4-hydroxylase (P4H-TM) reduces atherosclerotic plaque formation in mice. We reveal a novel role for P4H-TM in vascular disease pathogenesis.
+
+## Key Findings
+
+- P4H-TM deletion reduces atherosclerotic plaque burden
+- Altered ECM composition in vessel walls of knockout mice
+- Identified P4H-TM-dependent inflammatory pathways
+- Demonstrated therapeutic potential of P4H-TM inhibition
+
+## Therapeutic Implications
+
+Our findings suggest that targeting P4H-TM could represent a novel therapeutic strategy for atherosclerosis and related cardiovascular diseases.
+
+## Citation
+
+Määttä J, et al. (2021). Genetic Ablation of Transmembrane Prolyl 4-Hydroxylase Reduces Atherosclerotic Plaques in Mice. *Arteriosclerosis, Thrombosis, and Vascular Biology*, 41(7), 2128-2140.

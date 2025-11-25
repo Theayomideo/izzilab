@@ -1,0 +1,27 @@
+---
+title: "Exploring the roles of MACIT and multiplexin collagens in stem cells and cancer"
+author: "Izzi V, Heljasvaara R, Heikkinen A, Karppinen SM, Koivunen J, Pihlajaniemi T"
+year: 2020
+publication: "Seminars in Cancer Biology"
+doi: "10.1016/j.semcancer.2019.08.033"
+categories: [collagen, stem cells, cancer, review]
+---
+
+## Abstract
+
+This review explores the emerging roles of MACIT (membrane-associated collagens with interrupted triple helices) and multiplexin collagens in stem cell biology and cancer. We discuss how these specialized collagens regulate cell fate decisions and tumor progression.
+
+## Key Topics
+
+- Structure and function of MACIT and multiplexin collagens
+- Roles in stem cell niche maintenance
+- Impact on cancer stem cells and metastasis
+- Therapeutic targeting opportunities
+
+## Future Directions
+
+Understanding MACIT and multiplexin collagen functions opens new avenues for regenerative medicine and cancer therapy development.
+
+## Citation
+
+Izzi V, et al. (2020). Exploring the roles of MACIT and multiplexin collagens in stem cells and cancer. *Seminars in Cancer Biology*, 62, 134-148.

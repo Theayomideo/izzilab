@@ -1,0 +1,31 @@
+---
+title: "An extracellular matrix signature in leukemia precursor cells and acute myeloid leukemia"
+author: "Izzi V, Lakkala J, Devarajan R, Savolainen ER, Koistinen P, Heljasvaara R, Pihlajaniemi T"
+year: 2017
+publication: "Haematologica"
+doi: "10.3324/haematol.2017.167304"
+categories: [ECM, leukemia, AML, biomarkers]
+---
+
+## Abstract
+
+The extracellular matrix (ECM) is often overlooked in hematological malignancies. We identified a specific ECM gene expression signature in leukemia precursor cells and acute myeloid leukemia (AML) with prognostic implications.
+
+## Key Findings
+
+- Discovered distinct ECM expression patterns in AML patient samples
+- Identified ECM signature with favorable prognostic value
+- Patients with higher ECM signature expression showed longer relapse-free survival
+- Validated findings in independent AML cohorts
+
+## Clinical Significance
+
+This work demonstrates that ECM signatures can serve as prognostic biomarkers in AML, suggesting potential therapeutic targets in the leukemic microenvironment.
+
+## Data Availability
+
+Expression data and signatures are available in the supplementary materials and upon request.
+
+## Citation
+
+Izzi V, et al. (2017). An extracellular matrix signature in leukemia precursor cells and acute myeloid leukemia. *Haematologica*, 102(7), 1245-1255.

@@ -1,0 +1,42 @@
+---
+title: "Example Research Assistant"
+sortby: "Example Research Assistant"
+subtitle: "Research Assistant"
+image: placeholder.png
+toc: false
+started: "Fall 2024"
+ended: "Current"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: mailto:example.ura@oulu.fi
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Assistants</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+This is an example research assistant profile. Replace this content with information about your actual research assistants.
+
+## Research Interests
+- Data analysis
+- Bioinformatics tools
+- Laboratory support
+
+## Education
+- [University of Oulu]{.fw-bold} | Oulu, Finland<br />
+  BSc in [Relevant Field] | 2020–2024

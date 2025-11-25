@@ -1,0 +1,27 @@
+---
+title: "Collagen prolyl 4-hydroxylase isoenzymes I and II have sequence specificity towards different X-Pro-Gly triplets"
+author: "Salo AM, Rappu P, Koski MK, Karjalainen E, Izzi V, Drushinin K, Miinalainen I, Käpylä J, Heino J, Myllyharju J"
+year: 2024
+publication: "Matrix Biology"
+doi: "10.1016/j.matbio.2023.12.001"
+categories: [collagen, post-translational modification, ECM]
+---
+
+## Abstract
+
+This study reveals distinct sequence specificities of collagen prolyl 4-hydroxylase isoenzymes I and II towards X-Pro-Gly triplets. These findings provide new insights into collagen post-translational modification and its regulation.
+
+## Key Findings
+
+- Demonstrated differential substrate preferences between P4H isoenzymes
+- Identified specific X-Pro-Gly sequences targeted by each isoenzyme
+- Revealed impact on collagen stability and function
+- Characterized enzymatic kinetics and structural basis for specificity
+
+## Biochemical Significance
+
+Understanding isoenzyme-specific hydroxylation patterns is crucial for comprehending collagen maturation, stability, and tissue-specific ECM properties.
+
+## Citation
+
+Salo AM, et al. (2024). Collagen prolyl 4-hydroxylase isoenzymes I and II have sequence specificity towards different X-Pro-Gly triplets. *Matrix Biology*, 125, 73-87.

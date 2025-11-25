@@ -1,0 +1,27 @@
+---
+title: "The CMS19 disease model specifies a pivotal role for collagen XIII in bone homeostasis"
+author: "Kemppainen AV, Finnilä MA, Heikkinen A, Härönen H, Izzi V, Kauppinen S, Saarakkala S, Pihlajaniemi T, et al."
+year: 2022
+publication: "Scientific Reports"
+doi: "10.1038/s41598-022-09653-4"
+categories: [collagen XIII, bone, disease model, ECM]
+---
+
+## Abstract
+
+Using the CMS19 disease model, we demonstrate the pivotal role of collagen XIII in maintaining bone homeostasis. This study provides mechanistic insights into how collagen XIII mutations lead to skeletal abnormalities.
+
+## Key Findings
+
+- CMS19 mutations disrupt collagen XIII function in bone
+- Affected mice show altered bone microarchitecture
+- Identified disrupted signaling pathways in bone cells
+- Revealed compensatory mechanisms in ECM organization
+
+## Disease Implications
+
+Our findings enhance understanding of congenital myasthenic syndrome with structural abnormalities and highlight the importance of collagen XIII in skeletal development.
+
+## Citation
+
+Kemppainen AV, et al. (2022). The CMS19 disease model specifies a pivotal role for collagen XIII in bone homeostasis. *Scientific Reports*, 12(1), 5866.

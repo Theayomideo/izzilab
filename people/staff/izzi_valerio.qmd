@@ -1,0 +1,61 @@
+---
+pagetitle: "Valerio Izzi | Izzi Lab"
+title: "Valerio Izzi, PhD"
+subtitle: "Principal Investigator"
+sortby: 1
+image: ../../img/izzi_valerio.jpg
+toc: true
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:Valerio.Izzi@oulu.fi
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=qZ8_jowAAAAJ&hl=en
+    - icon: github
+      text: GitHub
+      href: https://github.com/Izzilab
+    - icon: twitter
+      text: X (Twitter)
+      href: https://twitter.com/ValerioIzzi
+---
+
+## Biography
+
+Valerio Izzi is an Associate Professor of Bioinformatics at the University of Oulu, Finland. He leads the Izzi Group on Bioinformatics and Data Analysis within the Faculty of Biochemistry and Molecular Medicine. His research focuses on understanding the regulation of extracellular matrix (ECM) production in cancer and its effects on the tumor microenvironment, hematopoiesis, and immunity.
+
+Dr. Izzi established his independent research group in 2020 after being tenured in the Profi-5 call at the University of Oulu. His lab has become internationally recognized for developing computational tools and databases for matrisome analysis.
+
+## Research Focus
+
+-   **Extracellular Matrix in Cancer** - Understanding ECM dynamics in tumor development and metastasis
+-   **Tumor Microenvironment** - Computational analysis of tumor-stroma interactions
+-   **Cancer Bioinformatics** - Developing algorithms for studying molecular networks in cancer
+-   **Machine Learning in Omics** - Applying AI techniques to single cell and spatial omics analysis
+
+## Key Publications
+
+1.  R Lamba, AM Paguntalan, PB Petrov, A Naba, V Izzi (2025). MatriCom, a single-cell RNA-sequencing data mining tool to infer cell–extracellular matrix interactions. *Journal of Cell Science*.
+
+2.  Petrov PB, Considine JM, Izzi V, Naba A. (2023). MatrisomeAnalyzeR – a suite of tools to annotate and quantify ECM molecules in big datasets across organisms. *Journal of Cell Science*.
+
+3.  J Kontio, VR Sonora, V Pesola, R Lamba, A Dittmann...V Izzi (2022). Analysis of extracellular matrix network dynamics in cancer using the MatriNet database. *Matrix Biology*.
+
+[View all 46 publications on Google Scholar](https://scholar.google.com/citations?user=qZ8_jowAAAAJ&hl=en)
+
+## Software and Tools
+
+-   **MatriCom** - R package for matrisome communication analysis in scRNA-seq
+-   **ProToDeviseR** - Automatic protein topology visualization
+-   **MatrisomeAnalyzeR** - Comprehensive ECM analysis suite
+-   **MatriNet Database** - Curated database of ECM interactions
+
+## Contact
+
+**Email:** Valerio.Izzi\[AT\]oulu.fi\
+**Phone:** +358 46 555 3793\
+**Office:** Aapistie 7 A, University of Oulu\
+**Postal:** P.O. Box 5400, FI-90014 University of Oulu, Finland

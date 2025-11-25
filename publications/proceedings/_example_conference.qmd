@@ -1,0 +1,23 @@
+---
+draft: true
+title: "Example Conference Presentation"
+author: "Izzi V, Example Co-author"
+year: 2024
+publication: "International Conference on Bioinformatics"
+doi: "10.1000/example"
+categories: [conference, bioinformatics, ECM]
+---
+
+## Abstract
+
+This is an example conference proceedings entry. Replace this content with your actual conference presentations and proceedings.
+
+## Key Points
+
+- Computational methods for ECM analysis
+- Novel algorithms for cancer research
+- Open-source software development
+
+## Citation
+
+Izzi V, Example Co-author. (2024). Example Conference Presentation. *International Conference on Bioinformatics*, 123-130.

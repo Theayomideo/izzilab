@@ -1,0 +1,27 @@
+---
+title: "MatrisomeAnalyzeR – a suite of tools to annotate and quantify ECM molecules in big datasets across organisms"
+author: "Petrov PB, Considine JM, Izzi V, Naba A"
+year: 2023
+publication: "Journal of Cell Science"
+doi: "10.1242/jcs.260373"
+categories: [ECM, bioinformatics, software]
+---
+
+## Abstract
+
+The extracellular matrix (ECM) plays crucial roles in development, homeostasis, and disease. We present MatrisomeAnalyzeR, a comprehensive suite of tools for annotating and quantifying ECM molecules across different organisms and large-scale datasets.
+
+## Software Features
+
+- **Annotation:** Automatic identification of matrisome components
+- **Quantification:** Statistical analysis of ECM abundance
+- **Visualization:** Novel chart types including 'matrirings', 'matristars', and 'matriflows'
+- **Cross-species:** Support for human, mouse, and other model organisms
+
+## Availability
+
+MatrisomeAnalyzeR is freely available as an R package with accompanying web interface.
+
+## Citation
+
+Petrov PB, Considine JM, Izzi V, Naba A. (2023). MatrisomeAnalyzeR – a suite of tools to annotate and quantify ECM molecules in big datasets across organisms. *Journal of Cell Science*, 136(12), jcs260373.

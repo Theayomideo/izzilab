@@ -1,0 +1,27 @@
+---
+title: "Upregulated integrin α11 in the stroma of cutaneous squamous cell carcinoma promotes skin carcinogenesis"
+author: "Martinez-Nieto GA, Teppo HR, Petrelius N, Izzi V, Devarajan R, Petäistö T, Liu H, Kim KS, Karppinen SM, et al."
+year: 2022
+publication: "Frontiers in Oncology"
+doi: "10.3389/fonc.2022.981009"
+categories: [cancer, skin cancer, integrin, ECM]
+---
+
+## Abstract
+
+This study reveals the pro-tumorigenic role of integrin α11 in the stroma of cutaneous squamous cell carcinoma. We demonstrate how stromal integrin α11 upregulation promotes skin carcinogenesis through ECM remodeling and fibroblast activation.
+
+## Key Findings
+
+- Integrin α11 is upregulated in cancer-associated fibroblasts
+- Stromal integrin α11 promotes tumor growth and invasion
+- Identified downstream signaling pathways mediating pro-tumorigenic effects
+- Demonstrated therapeutic potential of targeting stromal integrin α11
+
+## Therapeutic Implications
+
+Our findings suggest that targeting stromal integrin α11 could represent a novel therapeutic approach for cutaneous squamous cell carcinoma.
+
+## Citation
+
+Martinez-Nieto GA, et al. (2022). Upregulated integrin α11 in the stroma of cutaneous squamous cell carcinoma promotes skin carcinogenesis. *Frontiers in Oncology*, 12, 981009.

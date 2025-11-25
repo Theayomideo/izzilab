@@ -1,0 +1,27 @@
+---
+title: "TGF-β induces matrisome pathological alterations and EMT in patient-derived prostate cancer tumoroids"
+author: "Morazzo S, Niro F, Cassani M, Ďuríková H, Caravella A, Fiore P, Azzato G, De Marco G, Lauria A, Izzi V, et al."
+year: 2024
+publication: "Matrix Biology"
+doi: "10.1016/j.matbio.2023.11.001"
+categories: [cancer, ECM, prostate, TGF-beta]
+---
+
+## Abstract
+
+Using patient-derived prostate cancer tumoroids, we demonstrate how TGF-β signaling drives pathological matrisome alterations and epithelial-mesenchymal transition (EMT). This study provides insights into tumor microenvironment remodeling in prostate cancer progression.
+
+## Key Findings
+
+- TGF-β induces comprehensive matrisome remodeling in 3D tumoroids
+- Identified key ECM proteins driving EMT in prostate cancer
+- Characterized temporal dynamics of ECM changes during tumor progression
+- Revealed therapeutic targets within the tumor matrisome
+
+## Translational Relevance
+
+Our findings suggest that targeting TGF-β-induced matrisome alterations could represent a novel therapeutic strategy for aggressive prostate cancer.
+
+## Citation
+
+Morazzo S, et al. (2024). TGF-β induces matrisome pathological alterations and EMT in patient-derived prostate cancer tumoroids. *Matrix Biology*, 125, 12-30.

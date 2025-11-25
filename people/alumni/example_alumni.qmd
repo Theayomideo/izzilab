@@ -1,0 +1,50 @@
+---
+title: "Example Alumni"
+sortby: "Example Alumni"
+subtitle: "Former PhD Student"
+toc: false
+started: "Fall 2020"
+ended: "Spring 2024"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: mailto:example.alumni@email.com
+    - icon: linkedin
+      text: linkedin
+      href: https://linkedin.com/in/example-alumni
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Alumni</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+This is an example alumni profile. Replace this content with information about your former lab members.
+
+## Research Focus
+- Computational cancer biology
+- Extracellular matrix analysis
+- Machine learning applications
+
+## Current Position
+- **Postdoctoral Researcher** | [Current Institution] | 2024–Current
+
+## Education
+- [University of Oulu]{.fw-bold} | Oulu, Finland<br />
+  PhD in Bioinformatics | 2020–2024
+
+- [Previous University]{.fw-bold} | Location<br />
+  MSc in [Relevant Field] | 2018–2020

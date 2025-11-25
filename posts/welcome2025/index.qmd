@@ -1,0 +1,27 @@
+---
+title: "Welcome to the Izzi Lab Website"
+author: "Valerio Izzi"
+date: "2025-11-25"
+categories: [news, announcements]
+image: "welcome_img.webp"
+---
+
+We are excited to launch our new lab website! The Izzi Lab focuses on bioinformatics and data analysis, with a particular emphasis on understanding cancer through the lens of systems biology.
+
+## Our Mission
+
+Our group develops computational methods to study molecular networks in cancer, performing integrative analyses of the tumor microenvironment with special attention to the extracellular matrix.
+
+## What You'll Find Here
+
+- **Research**: Learn about our current projects and methodological approaches
+- **Publications**: Access our latest papers and preprints
+- **Resources**: Find computational tools and datasets we've developed
+- **Opportunities**: Discover open positions for students and postdocs
+- **News**: Stay updated on lab activities, publications, and achievements
+
+## Join Us
+
+We're always looking for motivated students and researchers interested in computational biology. If you're passionate about using data science to understand cancer biology, check out our [opportunities page](../../opportunities.qmd) or contact us directly.
+
+Welcome to our digital home!

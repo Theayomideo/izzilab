@@ -1,0 +1,27 @@
+---
+title: "Analysis of extracellular matrix network dynamics in cancer using the MatriNet database"
+author: "Izzi V, Kontio J, Soñora VR, Pesola V, Lamba R, Dittmann A, Navarro AD, Koivunen J, Pihlajaniemi T"
+year: 2022
+publication: "Matrix Biology"
+doi: "10.1016/j.matbio.2022.06.001"
+categories: [ECM, cancer, database]
+---
+
+## Abstract
+
+The extracellular matrix (ECM) undergoes extensive remodeling during cancer progression. We present MatriNet, a comprehensive database that captures ECM network dynamics across multiple cancer types. Our analysis reveals distinct ECM signatures associated with tumor progression and metastasis.
+
+## Key Findings
+
+- Identified over 25,000 curated ECM interactions
+- Discovered 210 statistically robust matrisome markers for 74 tumor subtypes
+- Demonstrated dynamic ECM remodeling patterns during cancer progression
+- Validated findings in independent cohorts
+
+## Database Access
+
+The MatriNet database is available for research use. Contact the authors for access.
+
+## Citation
+
+Izzi V, et al. (2022). Analysis of extracellular matrix network dynamics in cancer using the MatriNet database. *Matrix Biology*, 113, 1-15.

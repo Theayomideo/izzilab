@@ -1,0 +1,53 @@
+---
+title: "Petar Petrov, PhD"
+sortby: "Petrov, Petar"
+subtitle: "Postdoctoral Researcher"
+image: ../../img/petrov_petar.webp
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: mailto:petar.petrov@oulu.fi 
+    - icon: fab fa-gitlab
+      text: gitlab
+      href: https://gitlab.com/pebope
+    - icon: fas fa-file-lines  
+      text: CV
+      href: https://gitlab.com/pebope/cv
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Graduate Students</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+::: {#person-profile}
+:::
+
+## Biography
+
+Evolution superstar
+
+## Research Interests
+
+-   Evolution
+-   Bioinformatics
+-   Immunology
+
+## Education
+
+-   [University of Oulu]{.fw-bold} \| Oulu, Finland<br /> PhD (Immunology and Cell Biology), 2015
+
+-   [University of Oulu]{.fw-bold} \| Oulu, Finland<br /> MSc (Biochemistry and Molecular Biology), 2008
+
+-   [University of Perugia]{.fw-bold} \| Perugia, Italy<br /> BSc (Biotechnology), 2008

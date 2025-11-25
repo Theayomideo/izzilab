@@ -1,0 +1,57 @@
+---
+title: "Annalena Dittmann"
+sortby: "Dittmann, Annalena"
+subtitle: "Doctoral Researcher"
+image: ../../img/annalena_dittmann.jpg
+toc: false
+started: "2020"
+ended: "Current"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: mailto:annalena.dittmann@oulu.fi
+    - icon: fab fa-linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/annalena-dittmann-8a76121b6/
+    - icon: fab fa-researchgate
+      text: researchgate
+      href: https://www.researchgate.net/profile/Annalena-Dittmann
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Graduate Students</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+Work on the topic "Targeting Acute Myeloid Leukemia (AML) by the Leukemic Matrisome Interface (LMI)". Thereby I am using and developing an in vitro bone marrow model to investigate how AML cells manipulate their environment via the extracellular matrix to evade chemotherapy and thus lead to relapse of the disease.
+
+
+## Research Interests
+- Extracellular Matrix
+- Bone Marrow
+- Leukemia
+
+## Education
+- [University of Oulu]{.fw-bold} | Oulu, Finland<br />
+  PhD Student [Biochemistry and Molecular Medicine], 2020–Current
+
+- [Universität Rostock]{.fw-bold} | Rostock, Germany<br />
+  MSc in [ Microbiology and Biochemistry] | 2017–2019
+  
+- [Universität Rostock]{.fw-bold} | Rostock, Germany<br />
+  BSc in [Biology/Biological Sciences] | 2014–2017
+
+

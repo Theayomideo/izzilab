@@ -1,0 +1,52 @@
+---
+title: "Vilma Pesola"
+sortby: "Pesola, Vilma"
+subtitle: "Doctoral Researcher"
+image: ../../img/vilma_pesola.jpg
+toc: false
+started: "April 2021"
+ended: "Current"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: mailto:vilma.pesola@oulu.fi
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Graduate Students</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+
+
+## Research Interests
+- Bioinformatics
+- Cancer Research
+
+
+## Education
+- [University of Oulu]{.fw-bold} | Oulu, Finland<br />
+  PhD Student [Biochemistry and Molecular Medicine], 2021–Current
+
+<!-- - [Universita di Bologna]{.fw-bold} | Bologna, Italy<br /> -->
+<!--   MSc in [ Bioinformatics] | 2017–2020 -->
+
+<!-- - [Universita degli Studi di Firenze]{.fw-bold} | Florence, Italy<br /> -->
+<!--   BSc in [Biological Sciences] | 2017 -->
+
+

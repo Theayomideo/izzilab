@@ -1,0 +1,27 @@
+---
+title: "Reduced Bone Mass in Collagen Prolyl 4-Hydroxylase P4ha1+/−; P4ha2−/− Compound Mutant Mice"
+author: "Tolonen JP, Salo AM, Finnilä M, Aro E, Karjalainen E, Ronkainen VP, Drushinin K, Merceron C, Izzi V, et al."
+year: 2022
+publication: "JBMR Plus"
+doi: "10.1002/jbm4.10630"
+categories: [collagen, bone, mouse models, ECM]
+---
+
+## Abstract
+
+This study demonstrates that compound mutations in collagen prolyl 4-hydroxylase subunits P4ha1 and P4ha2 lead to reduced bone mass in mice. We reveal the critical role of collagen hydroxylation in maintaining bone homeostasis.
+
+## Key Findings
+
+- Compound P4ha1+/−; P4ha2−/− mice exhibit significant bone loss
+- Reduced collagen hydroxylation affects bone matrix quality
+- Altered osteoblast and osteoclast activity in mutant mice
+- Identified compensatory mechanisms in collagen synthesis
+
+## Clinical Relevance
+
+These findings provide insights into the pathogenesis of bone disorders associated with collagen post-translational modification defects.
+
+## Citation
+
+Tolonen JP, et al. (2022). Reduced Bone Mass in Collagen Prolyl 4-Hydroxylase P4ha1+/−; P4ha2−/− Compound Mutant Mice. *JBMR Plus*, 6(6), e10630.

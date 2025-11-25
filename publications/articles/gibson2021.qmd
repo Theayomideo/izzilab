@@ -1,0 +1,27 @@
+---
+title: "Prevalence estimates of predicted pathogenic COL4A3–COL4A5 variants in a population sequencing database and their implications for Alport syndrome"
+author: "Gibson J, Fieldhouse R, Chan MMY, Sadeghi-Alavijeh O, Burnett L, Izzi V, Persikov AV, Gale DP, Storey H, et al."
+year: 2021
+publication: "Journal of the American Society of Nephrology"
+doi: "10.1681/ASN.2020071065"
+categories: [collagen IV, genetics, Alport syndrome, population studies]
+---
+
+## Abstract
+
+This population-based study estimates the prevalence of pathogenic variants in COL4A3-COL4A5 genes and their implications for Alport syndrome. We provide crucial epidemiological data for genetic counseling and screening strategies.
+
+## Key Findings
+
+- Identified higher than expected prevalence of pathogenic variants
+- Characterized variant distribution across populations
+- Revealed implications for Alport syndrome diagnosis
+- Provided refined prevalence estimates for genetic counseling
+
+## Clinical Impact
+
+These findings suggest that Alport syndrome and related disorders may be more common than previously recognized, with important implications for screening and early intervention.
+
+## Citation
+
+Gibson J, et al. (2021). Prevalence estimates of predicted pathogenic COL4A3–COL4A5 variants in a population sequencing database and their implications for Alport syndrome. *Journal of the American Society of Nephrology*, 32(9), 2273-2290.

@@ -1,0 +1,27 @@
+---
+title: "The alternative matrisome: alternative splicing of ECM proteins in development, homeostasis and tumor progression"
+author: "Rekad Z, Izzi V, Lamba R, Ciais D, Van Obberghen-Schilling E"
+year: 2022
+publication: "Matrix Biology"
+doi: "10.1016/j.matbio.2022.05.003"
+categories: [ECM, alternative splicing, cancer, review]
+---
+
+## Abstract
+
+This review explores the "alternative matrisome" - the collection of ECM protein isoforms generated through alternative splicing. We discuss how alternative splicing contributes to ECM diversity and its implications for tissue homeostasis and disease.
+
+## Key Topics
+
+- Mechanisms of ECM protein alternative splicing
+- Tissue-specific and developmental regulation
+- Role in cancer progression and metastasis
+- Therapeutic targeting of splice variants
+
+## Biological Significance
+
+Alternative splicing dramatically expands ECM functional diversity, providing tissue-specific properties and disease-associated alterations that represent novel therapeutic targets.
+
+## Citation
+
+Rekad Z, Izzi V, Lamba R, Ciais D, Van Obberghen-Schilling E. (2022). The alternative matrisome: alternative splicing of ECM proteins in development, homeostasis and tumor progression. *Matrix Biology*, 111, 26-52.

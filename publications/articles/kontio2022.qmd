@@ -1,0 +1,27 @@
+---
+title: "Analysis of extracellular matrix network dynamics in cancer using the MatriNet database"
+author: "Kontio J, Sonora VR, Pesola V, Lamba R, Dittmann A, Navarro AD, Koivunen J, Pihlajaniemi T, Izzi V"
+year: 2022
+publication: "Matrix Biology"
+doi: "10.1016/j.matbio.2022.06.001"
+categories: [ECM, cancer, database, bioinformatics]
+---
+
+## Abstract
+
+MatriNet is a comprehensive database designed to capture and analyze extracellular matrix network dynamics in cancer. This resource provides researchers with tools to explore ECM remodeling patterns across multiple cancer types and stages.
+
+## Key Features
+
+- Comprehensive ECM interaction network data
+- Cancer type-specific ECM signatures
+- Temporal dynamics of ECM remodeling
+- Integration with clinical outcome data
+
+## Database Access
+
+MatriNet is freely available for academic research at [database URL]. The resource includes tutorials and analysis tools for exploring ECM networks in cancer.
+
+## Citation
+
+Kontio J, et al. (2022). Analysis of extracellular matrix network dynamics in cancer using the MatriNet database. *Matrix Biology*, 110, 141-150.

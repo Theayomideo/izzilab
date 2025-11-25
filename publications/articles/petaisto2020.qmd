@@ -1,0 +1,27 @@
+---
+title: "Lack of collagen XVIII leads to lipodystrophy and perturbs hepatic glucose and lipid homeostasis"
+author: "Petäistö T, Vicente D, Mäkelä KA, Finnilä MA, Miinalainen I, Koivunen J, Izzi V, Aikio M, Karppinen SM, et al."
+year: 2020
+publication: "The Journal of Physiology"
+doi: "10.1113/JP279559"
+categories: [collagen XVIII, metabolism, liver, ECM]
+---
+
+## Abstract
+
+This study demonstrates that collagen XVIII deficiency causes lipodystrophy and disrupts hepatic metabolic homeostasis. We reveal unexpected metabolic functions of this basement membrane component.
+
+## Key Findings
+
+- Collagen XVIII knockout mice develop lipodystrophy
+- Altered hepatic glucose and lipid metabolism
+- Disrupted adipose tissue ECM organization
+- Identified collagen XVIII-dependent metabolic pathways
+
+## Metabolic Implications
+
+Our findings establish collagen XVIII as a critical regulator of metabolic homeostasis, with implications for understanding metabolic disorders.
+
+## Citation
+
+Petäistö T, et al. (2020). Lack of collagen XVIII leads to lipodystrophy and perturbs hepatic glucose and lipid homeostasis. *The Journal of Physiology*, 598(16), 3373-3393.

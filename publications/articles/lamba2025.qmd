@@ -1,0 +1,27 @@
+---
+title: "MatriCom, a single-cell RNA-sequencing data mining tool to infer cell–extracellular matrix interactions"
+author: "Lamba R, Paguntalan AM, Petrov PB, Naba A, Izzi V"
+year: 2025
+publication: "Journal of Cell Science"
+doi: "10.1242/jcs.263927"
+categories: [ECM, single-cell, bioinformatics]
+---
+
+## Abstract
+
+We present MatriCom, a computational tool designed to mine single-cell RNA sequencing data to identify and analyze cell-extracellular matrix (ECM) interactions. This tool enables researchers to systematically explore ECM-ECM and cell-ECM communication systems at single-cell resolution.
+
+## Key Findings
+
+- Developed a comprehensive scRNA-seq data mining framework for ECM interaction analysis
+- Enables identification of cell-specific ECM communication networks
+- Provides insights into ECM remodeling at single-cell resolution
+- Validated across multiple tissue types and disease models
+
+## Software Availability
+
+MatriCom is freely available for academic use. The tool can be accessed through the corresponding author's repository.
+
+## Citation
+
+Lamba R, et al. (2025). MatriCom, a single-cell RNA-sequencing data mining tool to infer cell–extracellular matrix interactions. *Journal of Cell Science*, 138(13), jcs263927.

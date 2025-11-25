@@ -1,0 +1,27 @@
+---
+title: "Pan-cancer analysis of the genomic alterations and mutations of the matrisome"
+author: "Izzi V, Davis MN, Naba A"
+year: 2020
+publication: "Cancers"
+doi: "10.3390/cancers12082046"
+categories: [cancer, ECM, genomics, pan-cancer]
+---
+
+## Abstract
+
+This comprehensive pan-cancer analysis reveals the landscape of genomic alterations and mutations affecting the matrisome. We identify recurrent patterns of ECM dysregulation across tumor types and their clinical significance.
+
+## Key Findings
+
+- Systematic characterization of matrisome mutations across 33 cancer types
+- Identified driver mutations in ECM genes
+- Revealed convergent and divergent patterns of ECM alterations
+- Correlated genomic changes with patient survival
+
+## Clinical Relevance
+
+Our findings provide a resource for understanding ECM-driven oncogenesis and identifying potential therapeutic targets within the tumor matrisome.
+
+## Citation
+
+Izzi V, Davis MN, Naba A. (2020). Pan-cancer analysis of the genomic alterations and mutations of the matrisome. *Cancers*, 12(8), 2046.

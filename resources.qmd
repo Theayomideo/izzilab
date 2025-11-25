@@ -1,0 +1,49 @@
+---
+pagetitle: "Resources | Izzi Lab"
+toc: true
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Resources</li>
+  </ol>
+</nav>
+```
+
+## Software Tools
+
+### MatriCom (2025)
+Single-cell RNA-seq data mining tool for cell-ECM interactions  
+*Web:* <https://matrinet.shinyapps.io/matricom>  
+*GitHub:* <https://github.com/Izzilab/MatriCom>  
+*Publication:* Lamba et al. (2025) J Cell Sci
+
+### ProToDeviseR (2025)
+Automatic protein topology scheme generator  
+*Application:* Protein topology and domain visualization
+*Access:* <https://github.com/Izzilab/protodeviser>
+*GitHub:* <https://matrinet.shinyapps.io/ProToDeviseR/>  
+*Publication:* Lamba et al. (2025) J Cell Sci
+
+### MatrisomeAnalyzeR (2023)
+Suite for annotating and quantifying ECM molecules across organisms  
+*Access:* <https://matrinet.shinyapps.io/MatrisomeAnalyzer/> 
+*GitHub:* <https://github.com/Izzilab/MatrisomeAnalyzeR>
+*Publication:* Petrov et al. (2023) J Cell Sci  
+
+### MatriNet Database (2022)
+Database of ECM network dynamics in cancer  
+*Features:* 25,000+ ECM interactions, 210 matrisome markers  
+*Publication:* Izzi et al. (2022) Matrix Biology  
+*Access:* Contact lab for access
+
+
+## How to Access
+
+For tool access and collaboration inquiries, contact: Valerio.Izzi@oulu.fi
+
+## Citation
+
+When using our tools, please cite the relevant publication listed above.

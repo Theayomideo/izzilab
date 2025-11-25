@@ -1,0 +1,27 @@
+---
+title: "Fibroblast-derived matrix models desmoplastic properties and forms a prognostic signature in cancer progression"
+author: "Nielsen SR, Grønseth DS, Kuś F, Schoof EM, Arnes L, Koch M, Clausen-Schaumann H, Izzi V, et al."
+year: 2023
+publication: "Frontiers in Immunology"
+doi: "10.3389/fimmu.2023.1154528"
+categories: [cancer, ECM, fibroblasts, prognosis]
+---
+
+## Abstract
+
+We developed fibroblast-derived matrix models that recapitulate desmoplastic properties of tumor stroma. Analysis of these matrices revealed a distinct ECM signature that serves as a prognostic indicator for cancer progression.
+
+## Key Findings
+
+- Created physiologically relevant fibroblast-derived matrix models
+- Identified ECM signature predictive of patient outcomes
+- Characterized mechanical and biochemical properties of desmoplastic matrices
+- Demonstrated impact on tumor cell behavior and drug response
+
+## Prognostic Value
+
+The identified ECM signature provides a robust prognostic tool for stratifying cancer patients and predicting treatment response.
+
+## Citation
+
+Nielsen SR, et al. (2023). Fibroblast-derived matrix models desmoplastic properties and forms a prognostic signature in cancer progression. *Frontiers in Immunology*, 14, 1154528.

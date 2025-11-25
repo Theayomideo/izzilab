@@ -1,0 +1,27 @@
+---
+title: "Advances on the roles of tenascin-C in cancer"
+author: "Yilmaz A, Loustau T, Salomé N, Poilil Surendran S, Li C, Tucker RP, Izzi V, Lamba R, Koch M, Orend G"
+year: 2022
+publication: "Journal of Cell Science"
+doi: "10.1242/jcs.260244"
+categories: [ECM, cancer, tenascin-C, review]
+---
+
+## Abstract
+
+This comprehensive review examines the multifaceted roles of tenascin-C in cancer progression. We discuss recent advances in understanding tenascin-C functions in tumor microenvironment remodeling, metastasis, and therapeutic resistance.
+
+## Key Topics
+
+- Tenascin-C structure and isoform diversity
+- Roles in tumor angiogenesis and immune evasion
+- Impact on cancer stem cell niches
+- Therapeutic targeting strategies
+
+## Clinical Relevance
+
+Tenascin-C represents a promising therapeutic target and biomarker for various cancer types, with multiple targeting strategies currently under development.
+
+## Citation
+
+Yilmaz A, et al. (2022). Advances on the roles of tenascin-C in cancer. *Journal of Cell Science*, 135(18), jcs260244.

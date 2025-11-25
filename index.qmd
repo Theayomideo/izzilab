@@ -1,0 +1,12 @@
+---
+pagetitle: "Izzi Lab"
+title: "Izzi Group on Bioinformatics and Data Analysis"
+# page-layout: full
+toc: false
+---
+
+::: {.lead}
+  We are an [interdisciplinary]{.fw-bolder} research group based within the [Faculty of Biochemistry and Molecular Medicine](https://www.oulu.fi/en/faculties-units/faculty-biochemistry-and-molecular-medicine){.text-primary .text-decoration-none .fw-bolder} at the [University of Oulu](https://www.oulu.fi/en){.text-primary .text-decoration-none .fw-bolder}. We develop [algorithms and tools]{.fw-bolder} for studying molecular networks with a focus on [the extracellular matrix]{.fw-bolder} in health and disease, perform [integrative analyses]{.fw-bolder} of the tumor microenvironment, and provide [bioinformatics services]{.fw-bolder}.
+:::
+
+![](./img/hero_image_banana.png){.hero}

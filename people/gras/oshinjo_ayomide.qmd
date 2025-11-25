@@ -1,0 +1,58 @@
+---
+title: "Ayomide Oshinjo"
+sortby: "Oshinjo, Ayomide"
+subtitle: "Doctoral Researcher"
+image: ../../img/oshinjo_ayomide.jpeg
+toc: false
+started: "Spring 2024"
+ended: "Current"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: mailto:ayomide.oshinjo@oulu.fi
+    - icon: github
+      text: github
+      href: https://github.com/theayomideo
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Graduate Students</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+Day one in Bioinfo
+
+
+## Research Interests
+- Spatial and Single Cell Omics
+- ECM and Cancer Systems Biology
+- Tumor Microenvironment
+
+## Education
+- [University of Oulu]{.fw-bold} | Oulu, Finland<br />
+  PhD Student [Biochemistry and Molecular Medicine (Bioinformatics)], 2024–Current
+
+- [University of Oulu]{.fw-bold} | Oulu, Finland<br />
+  MSc in [Biochemistry (Molecular Medicine) with Bioinformatics minor] | 2022–2024
+  
+- [Nigerian University of Technology and Management]{.fw-bold} | Lagos, Nigeria<br />
+  PgDip in [Technology, Entrepreneurship and Design] | 2022–2023
+
+- [Bowen University]{.fw-bold} | Osun, Nigeria<br />
+  BSc in [Human Physiology] | 2017–2020
+
+
+
