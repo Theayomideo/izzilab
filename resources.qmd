@@ -48,11 +48,10 @@ Suite for annotating and quantifying ECM molecules across organisms
 ### MatriNet Database (2022)
 Database of ECM network dynamics in cancer
 
-*Features:* 25,000+ ECM interactions, 210 matrisome markers
+*Access/Github:* <https://github.com/Izzilab/matrinetR>
 
 *Publication:* Izzi et al. (2022) Matrix Biology
 
-*Access:* <https://github.com/Izzilab/matrinetR>
 
 
 
