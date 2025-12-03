@@ -1,0 +1,20 @@
+---
+title: "ASMB 2025 Biennial Meeting"
+author: "Izzi Lab"
+date: "2025-12-03"
+categories: [conference, spatial transcriptomics, ECM]
+---
+
+Valerio and Ayomide attended the ASMB 2025 Biennial Meeting (November 16-19, 2025) in Baltimore, MD. It was a great opportunity to share our latest work on spatial transcriptomics and connect with the ECM research community. We also met our friends from the Naba Lab!
+
+**Izzi, V.** (2025). GENESIS: rapid generation of superresolution tissue maps from spatial transcriptomics data. Talk presented at the ASMB 2025 Biennial Meeting.
+
+**Oshinjo, A.** (2025). MatriSpace: A Spatial Transcriptomics Toolbox to Explore the Extracellular Matrix in Health and Disease. Poster presented at the ASMB 2025 Biennial Meeting.
+
+## MatriSpace Poster
+
+{{< embedpdf matrispace_asmb_poster.pdf.pdf width="100%" height="800px" >}}
+
+## With friends from the Naba Lab
+
+![](asm_naba_lab_meeting.jpeg){width=60%}
